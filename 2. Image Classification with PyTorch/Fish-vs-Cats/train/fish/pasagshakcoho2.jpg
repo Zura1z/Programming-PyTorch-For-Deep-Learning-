@@ -1,0 +1,1571 @@
+<!DOCTYPE html>
+
+
+<!--[if IE]><![endif]-->
+<!--[if lte IE 6 ]> <html lang="en" class="browser_is_lte_ie6 browser_is_lte_ie7 browser_is_lte_ie8 browser_is_lte_ie9">    <![endif]-->
+<!--[if IE 7 ]>     <html lang="en" class="browser_is_ie7 browser_is_lte_ie7 browser_is_lte_ie8 browser_is_lte_ie9">    <![endif]-->
+<!--[if IE 8 ]>     <html lang="en" class="browser_is_ie8 browser_is_lte_ie8 browser_is_lte_ie9">    <![endif]-->
+<!--[if IE 9 ]>     <html lang="en" class="browser_is_ie9 browser_is_lte_ie9">    <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="browser_is_not_ie6through9"><!--<![endif]-->
+
+<head>
+	
+		<meta charset="utf-8">
+		
+		<!-- begin dynamic page metadata -->
+		
+		
+		<meta name="keywords" content="Alaska Fish Game ADF&amp;G">
+		<meta name="description" content="Alaska Department of Fish and Game">
+		<meta name="author" content="dfg.webmaster@alaska.gov">
+		
+		<title>Alaska Department of Fish and Game</title>
+		
+		
+		
+			
+				
+				
+				
+				
+				
+			
+			<meta property="og:url" content="http://www.adfg.alaska.gov/index.cfm?adfg=fishingSport.main" />
+			<meta property="fb:admins" content="1155666803"/>
+			<meta property="og:image" content="http://www.adfg.alaska.gov/static/_global/layouts/2017_responsive/img/subpage_banner/adfg_logo_print.jpg" />
+			<meta property="og:title" content="Alaska Department of Fish and Game" />
+			<meta property="og:description" content="Alaska Department of Fish and Game" />
+			<meta property="og:type" content="website" />
+		
+		<!-- end dynamic page metadata -->
+		
+		<!-- begin static page metadata -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="http://www.adfg.alaska.gov/favicon.ico">
+		<link rel="icon" type="image/ico" href="http://www.adfg.alaska.gov/favicon.ico">
+		<!-- end static page metadata -->
+	
+	
+	
+	
+	<!-- begin head stylesheets -->
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/static/applications/webintra/stylesheets/2017_responsive/with_media_queries/sty_combined_styles_fully_qualified_pathing.css">
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/static/fishing/css/global.css">
+
+	<link rel="stylesheet" type="text/css" href="/static/fishing/css/template.css">
+
+	<link rel="stylesheet" type="text/css" href="/static/fishing/css/sub-landing-page.css">
+
+	<link rel="stylesheet" type="text/css" href="/static/fishing/images/image-map/image-map.css">
+
+	<link rel="stylesheet" type="text/css" href="/static/_global/css/jqslider.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- end head stylesheets -->
+	
+	
+	<!-- begin head javascript -->
+	
+
+
+<!--[if lte IE 8]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript" nonce="">
+		
+			
+			
+			
+			
+			
+			
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-12976037-1', 'auto', {'allowLinker': true});
+			ga('require', 'linker');
+			ga('linker:autoLink', ['secure.wildlife.alaska.gov', 'adfg.maps.arcgis.com', 'google.state.ak.us'] );
+			ga('send', 'pageview');
+		
+		
+			
+			
+			
+			
+			
+			
+	
+	
+		if (typeof console === "undefined") {console = {}; console.log = function () {return;};}
+	
+
+		
+			
+			
+			
+			
+			
+			
+		
+			
+			
+		
+	
+		
+	</script>
+
+	<!-- end head javascript -->
+	
+	
+    
+</head>
+
+
+<body>
+	<div id="skip">
+		<a href="#content">Skip to Main Content</a>
+		<a href="#primarynav">Skip to Site Navigation</a>
+		<a href="#secondarynav">Skip to Section Navigation</a> 
+	</div>
+	
+	<div id="soa_navigation">
+	<nav role="navigation">
+		<div class="pagerowcontainer clearfix">
+			<ul>
+				<li class="soa_home_link"><a href="http://www.alaska.gov">State of Alaska</a></li>
+				<li class="soa_navigation_link"><a href="http://my.alaska.gov">myAlaska</a></li>
+				<li class="soa_navigation_link"><a href="http://www.alaska.gov/akdir1.html">Departments</a></li>
+				<li class="soa_navigation_link"><a href="http://www.alaska.gov/employeeHome.html">State Employees</a></li>
+				<li class="statewide_links_link_to_footer"><a href="#footer_soa">Statewide Links</a></li>
+			</ul>
+		</div>
+	</nav>
+</div>
+	<div id="headerarea" class="pagerowcontainer clearfix">
+	<header role="banner">
+		<div id="subpagebanner">
+			
+			
+			
+			<div class="subpagebanner_bg_gradient"></div>
+			<div class="subpagebanner_adfg_branding">
+				<h2>
+					<a href="/index.cfm?adfg=home.main">
+						<span class="site-title-state">Alaska Department of</span> 
+						<span class="site-title-departmentname">Fish and Game</span>
+					</a>
+				</h2>
+			</div>
+		</div>
+		
+		<div id="search_icon_placeholder">
+			
+		</div>
+		
+		<div id="searcharea">
+			
+
+	        
+	        <form action="https://www.adfg.alaska.gov/index.cfm" method="get" name="gs">
+				<div class="searchbox">
+					<div class="magnifyingglass"></div>
+					<input type="hidden" name="adfg" value="search.main">
+					<div class="searchfield">
+						<label for="search_input_area" class="for_screen_reader">Search Terms</label>
+						<input id="search_input_area" name="q" title="Search" type="text" value="" placeholder="Search">
+					</div>
+					<input value="UTF-8" name="ie" type="hidden">
+			    	<input value="UTF-8" name="oe" type="hidden"> 
+					<input class="searchsubmit" type="submit" value="Search">
+				</div>
+			</form>
+		</div><!-- end searcharea -->
+	    
+	</header>
+</div><!-- end headerarea -->
+
+
+<div id="printheader">
+	<img src="/static/_global/layouts/2017_responsive/img/subpage_banner/adfg_logo_print.jpg" style="width: 65px; height: 65px;" alt="Fish and Game Home">
+	<h2>Alaska Department of Fish and Game</h2>
+	<div class="clear"></div>
+	<hr>
+</div>
+
+
+	
+	
+	
+	
+	
+	<a id="primarynav"></a>
+	
+
+<noscript>
+	<div id="shortGlobalNav" class="pagerowcontainer">
+		<nav role="navigation">
+			<form name="primarynavselect" action="/index.cfm?adfg=miscapplications.nojs_globalnav_redirect" method="post">
+				<select name="globalnavselect" size="1">
+					<option selected value="">Switch to Section:</option>
+					<option value="home">ADF&amp;G Home</option>
+					<option value="fishing">Fishing</option>
+					<option value="hunting">Hunting</option>
+					<option value="subsistence">Subsistence</option>
+					<option value="viewing">Viewing</option>
+					<option value="education">Education</option>
+					<option value="species">Species</option>
+					<option value="lands">Habitat</option>
+					<option value="regulations">Regulations</option>
+					<option value="about">About Us</option>
+					<option value="join">Join Us</option>
+					<option value="news">News and Events</option>
+					<option value="research">Management &amp; Research</option>
+					<option value="license">Licenses &amp; Permits</option>
+					<option value="library">e-Library</option>
+					<option value="maps">Maps &amp; GIS</option>
+					<option value="contacts">Contact Us</option>
+				</select>
+				
+				<input type="submit" value="Go">
+			</form>
+		</nav>
+	</div><!-- end shortGlobalNav -->
+</noscript>
+	
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navholder" class="pagerowcontainer">
+	<div id="divNav" class="clearfix">
+		<nav role="navigation">
+			<ul class="sf-menu sf-navbar">
+				
+<li>
+
+<a href="/index.cfm?adfg=home.main">Home</a>
+	<ul>
+		<li>
+			<a href="/index.cfm?adfg=about.main">About Us</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=about.welcome">Commissioner's Welcome</a></li>
+				<li><a href="/index.cfm?adfg=about.agency">Our Agency</a></li>
+				<li><a href="/index.cfm?adfg=about.structure">Our Structure &amp; Staff</a></li>
+				
+				<li><a href="/index.cfm?adfg=about.history">Our History</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=join.main">Join Us</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=join.careers">Careers</a></li>
+				<li><a href="/index.cfm?adfg=join.internships">Internships</a></li>
+				<li><a href="/index.cfm?adfg=join.appointments">Appointed Positions</a></li>
+				<li><a href="/index.cfm?adfg=join.donate">Donate</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=news.main">News &amp; Events</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=newsreleases.main">Regulation Announcements<br>News Releases<br>Emergency Orders</a></li>
+				<li><a href="/index.cfm?adfg=pressreleases.main">Media/Press Releases</a></li>
+				<li><a href="/index.cfm?adfg=hottopics.main">Hot Topics &amp; Issues</a></li>
+				<li><a href="/index.cfm?adfg=boardsactions.main">Board of Fisheries and Game: Actions &amp; Activities</a></li>
+				
+				
+				<li><a href="/index.cfm?adfg=wildlifenews.main">Alaska Fish and Wildlife News (Magazine)</a></li>
+				
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=research.main">Management &amp; Research</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishresearch.main">Fish &amp; Shellfish</a></li>
+				<li><a href="/index.cfm?adfg=wildliferesearch.main">Wildlife</a></li>
+				<li><a href="/index.cfm?adfg=research.habitat">Habitat &amp; Lands</a></li>
+				<li><a href="/index.cfm?adfg=subsistenceresearch.main">Subsistence</a></li>
+				<li><a href="/index.cfm?adfg=managementprograms.main">ADF&amp;G Programs</a></li>
+				<li><a href="/index.cfm?adfg=librarypublications.publications_reports">Publications &amp; Reports</a></li>
+				<li><a href="/index.cfm?adfg=plans.main">Plans</a></li>
+				<li><a href="/index.cfm?adfg=wildlifediversity.main">Threatened, Endangered, and Diversity Program</a></li>
+				
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=license.main">Licenses &amp; Permits</a>
+			<ul class="thirdlevel">
+				<li><a href="https://www.adfg.alaska.gov/store/">Buy a License Online</a></li>
+				<li><a href="/index.cfm?adfg=sportlicense.main">Sport Fishing</a></li>
+				<li><a href="/index.cfm?adfg=fishlicense.main">Commercial Fishing</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.main">Hunting &amp; Trapping</a></li>
+
+				<li><a href="/index.cfm?adfg=uselicense.main">Habitat Permits</a></li>
+
+				<li><a href="/index.cfm?adfg=residentfishing.main">Subsistence &amp; Personal Use</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/index.cfm?adfg=library.main">e-Library</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=librarypublications.main">Publications</a></li>
+				<li><a href="/index.cfm?adfg=multimedia.main">Multimedia</a></li>
+				<li><a href="/index.cfm?adfg=library.maps">Maps</a></li>
+				<li><a href="/index.cfm?adfg=library.databases">Databases</a></li>
+				<li><a href="/index.cfm?adfg=libraryarlis.main">Alaska Resources Library and Information Services (ARLIS)</a></li>
+				<li><a href="/index.cfm?adfg=library.contacts">Library Contacts</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/index.cfm?adfg=maps.main">Maps &amp; GIS</a>
+		</li>
+
+
+
+
+		<li id="thirdlevel-contact">
+			<a href="/index.cfm?adfg=contacts.subject">Contact Us</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=contacts.main">Contact Info by Office Location</a></li>
+				<li><a href="/index.cfm?adfg=contacts.subject">Contact Info by Topic</a></li>
+				<li><a href="/index.cfm?adfg=contacts.emailus">E-mail Us</a></li>
+				<li><a href="/index.cfm?adfg=contacts.employee">Employee Lookup</a></li>
+			</ul>
+		</li>
+
+		
+	</ul>
+</li>
+
+
+				
+<li class="current">
+	<a href="/index.cfm?adfg=fishing.main">Fishing</a>
+	<ul>
+		<li><a href="/index.cfm?adfg=license.main">Licenses &amp; Permits</a>
+			<ul class="thirdlevel">
+				<li><a href="https://www.adfg.alaska.gov/store/">Buy Now!</a></li>
+				<li><a href="/index.cfm?adfg=fishlicense.main">Commercial Licenses</a></li>
+				<li><a href="/index.cfm?adfg=license.general">Sport License Information</a></li>
+				<li><a href="/index.cfm?adfg=residentfishing.main">Subsistence &amp; Personal Use</a></li>
+				<li><a href="/index.cfm?adfg=license.main">More <span class="for_screen_reader">Licenses &amp; Permits</span> >></a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingCommercial.main">Commercial</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=cfnews.main">Advisory Announcements</a></li>
+				<li><a href="/index.cfm?adfg=fishingCommercialByArea.main">Information by Area</a></li>
+				<li><a href="/index.cfm?adfg=fishingCommercialByFishery.main">Information by Fishery</a></li>
+				<li><a href="http://www.adfg.alaska.gov/sf/FishCounts/">Fish Counts</a></li>
+				<li><a href="/index.cfm?adfg=fishingCommercial.maps">Maps &amp; GIS</a></li>
+				<li><a href="/index.cfm?adfg=fishlicense.reporting">Reporting Resources</a></li>
+				<li><a href="/index.cfm?adfg=divisions.cfoverview">About the Division of Commercial Fisheries</a></li>
+				<li><a href="/index.cfm?adfg=fishingCommercial.partneragencies">Partner Agencies &amp; Fishermen Resources</a></li>
+				<li><a href="/index.cfm?adfg=fishingCommercial.statisticsanddata">Statistics &amp; Data</a></li>
+				<li><a href="/index.cfm?adfg=contacts.main">Area Offices &amp; Contact Information</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingSport.main">Sport</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=FishingSportFishAK.main">wefishak</a></li>
+				<li><a href="/index.cfm?adfg=fishingSportFishingInfo.main">Fishing Information</a></li>
+				<li><a href="/SF_Lakes/">Alaska Lake Database</a></li>
+				<li><a href="/index.cfm?adfg=fishingSportByArea.main">Information by Area</a></li>
+				<li><a href="/sf/FishCounts/">Fish Counts</a></li>
+				
+				<li><a href="/index.cfm?adfg=fishingSportBoatingAnglerAccess.main">Boating and Angler Access</a></li>
+				<li><a href="/index.cfm?adfg=fishingSportStockingHatcheries.main">Hatcheries and Stocking</a></li>
+				<li><a href="/index.cfm?adfg=SportProxyFishing.main">Proxy Fishing</a></li>
+				
+				
+				
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingSubsistence.main">Subsistence</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishingSubsistenceByArea.main">Information by Area</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.faqs">FAQs</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.main">Alaska Subsistence Priority</a></li>
+				<li><a href="/index.cfm?adfg=SubsistenceProxyFishing.main">Proxy Fishing</a></li>
+				<li><a href="/store/">Online Permits</a></li>
+				<li><a href="/sf/PU/">Online Harvest Reporting</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingPersonalUse.main">Personal Use</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=PersonalUsebyArea.main">Information By Area</a></li>
+				<li><a href="/index.cfm?adfg=cfnews.main">Announcements and Updates</a></li>
+				<li><a href="/index.cfm?adfg=fishingPersonalUse.phone">Recorded Phone Numbers</a></li>
+				<li><a href="/index.cfm?adfg=PersonalUseProxyFishing.main">Proxy Fishing</a></li>
+				<li><a href="/sf/FishCounts/">Fish Counts</a></li>
+				<li><a href="/index.cfm?adfg=fishregulations.personalUse">Personal Use Regulations</a></li>
+				<li><a href="/index.cfm?adfg=fishingPersonalUse.phone">Get More Help</a></li>
+				<li><a href="/store/">Online Permits</a></li>
+				<li><a href="/sf/PU/">Online Harvest Reporting</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingaquaticfarming.main">Aquatic Farming</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.programinfo">Program Information</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.aquaticregs">Regulations &amp; Statutes</a></li>
+				<li><a href="/index.cfm?adfg=aquaticfarming.main">Permitting</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.forms">Forms</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.aquaticfarminfo">Operation Details</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.mariculturepublications">Reports</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.mariculturefaq">FAQs</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.mariculturecontacts">Contact Us</a></li>
+				<li><a href="/index.cfm?adfg=fishingaquaticfarming.mariculturelinks">Related Links</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingHatcheries.main">Hatcheries</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishingHatcheriesPlanning.main">Planning</a></li>
+				<li><a href="/index.cfm?adfg=fishingHatcheriesRegulationsPolicies.main">Regulations and Policies</a></li>
+				<li><a href="/index.cfm?adfg=hatcheries.main">Permitting</a></li>
+				<li><a href="/index.cfm?adfg=fishingHatcheriesFacilities.main">Facilities</a></li>
+				<li><a href="/index.cfm?adfg=SportStockingHatcheriesSearch.main">Stocking and Release</a></li>
+				<li><a href="/index.cfm?adfg=fishingHatcheriesOtherInfo.reports">Reports</a></li>
+				<li><a href="/index.cfm?adfg=fishingHatcheriesResearch.main">Research</a></li>
+				<li><a href="/index.cfm?adfg=fishingSportStockingHatcheries.faq">FAQs</a></li>
+				<li><a href="/index.cfm?adfg=contacts.hatcheries">Contact</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=fishingResearch.main">Research</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishinggeneconservationlab.main">Gene Conservation Lab</a></li>
+				<li><a href="/index.cfm?adfg=fishingpathologylab.main">Pathology Lab</a></li>
+				<li><a href="http://mtalab.adfg.alaska.gov/">Mark, Tag and Age Lab</a></li>
+				<li><a href="/index.cfm?adfg=akssf.main">Alaska Sustainable Salmon Fund</a></li>
+				<li><a href="/index.cfm?adfg=wassip.main">Western Alaska Salmon Stock Identification Program (WASSIP)</a></li>
+				<li><a href="/index.cfm?adfg=sonar.main">Sonar Programs</a></li>
+			</ul>
+		</li>
+	</ul>
+</li>
+
+
+				
+				
+<li>
+	<a href="/index.cfm?adfg=hunting.main">Hunting</a>
+	<ul>
+		
+		<li><a href="/index.cfm?adfg=hunting.general">General Information</a>
+			
+		</li>
+		<li><a href="/index.cfm?adfg=huntlicense.main">Licenses &amp; Permits</a>
+			<ul class="thirdlevel">
+				<li><a href="https://www.adfg.alaska.gov/store/">Buy your License</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.main">License Information</a></li>
+				<li><a href="https://secure.wildlife.alaska.gov/ePermit">Online General Season &amp; Registration Permits</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.draw">Drawing Permit Information</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.registration">Registration Permit Information</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.tier">Tier I &amp; II Permit Information</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.general">General Season Permit Information</a></li>
+			</ul>
+		</li>
+		<li><a href="https://secure.wildlife.alaska.gov/index.cfm?adfg=interperm.report_greeting">File Hunt Reports</a>
+			
+		</li>
+		<li><a href="/index.cfm?adfg=hunting.species">Game Species</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=bisonhunting.main">Bison</a></li>
+				<li><a href="/index.cfm?adfg=blackbearhunting.main">Black Bear</a></li>
+				<li><a href="/index.cfm?adfg=brownbearhunting.main">Brown Bear</a></li>
+				<li><a href="/index.cfm?adfg=caribouhunting.main">Caribou</a></li>
+				<li><a href="/index.cfm?adfg=sheephunting.main">Dall Sheep</a></li>
+				<li><a href="/index.cfm?adfg=deerhunting.main">Deer</a></li>
+				<li><a href="/index.cfm?adfg=elkhunting.main">Elk</a></li>
+				<li><a href="/index.cfm?adfg=moosehunting.main">Moose</a></li>
+				<li><a href="/index.cfm?adfg=goathunting.main">Mountain Goat</a></li>
+				<li><a href="/index.cfm?adfg=muskoxhunting.main">Muskox</a></li>
+				<li><a href="/index.cfm?adfg=smallgamehunting.main">Small Game</a></li>
+				<li><a href="/index.cfm?adfg=waterfowlhunting.main">Waterfowl</a></li>
+				<li><a href="/index.cfm?adfg=wolfhunting.main">Wolf</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=huntingmaps.main">Maps</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=huntingmaps.byspecies">Hunting Maps</a></li>
+				<li><a href="/index.cfm?adfg=huntingmaps.gmuinfo">Area Information</a></li>
+				<li><a href="/index.cfm?adfg=huntingmaps.restrictionsbygmu">Areas with Restrictions</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=huntered.ranges">Shooting Ranges</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=anchoragerange.main">Anchorage Range</a></li>
+				<li><a href="/index.cfm?adfg=fairbanksrange.main">Fairbanks Range</a></li>
+				<li><a href="/index.cfm?adfg=juneaurange.main">Juneau Range</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=huntered.main">Hunter Education</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=huntered.basichunter">Hunter Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.bowhunter">Bowhunter Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.crossbow">Crossbow Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.muzzleloader">Muzzleloader Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.schedules">Class Schedules</a></li>
+				
+				
+				<li><a href="/index.cfm?adfg=huntered.womens">Women's Programs</a></li>
+				<li><a href="/index.cfm?adfg=huntered.youth">Youth Programs</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=trapping.main">Trapping</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=trapping.main">General Information</a></li>
+				<li><a href="/index.cfm?adfg=wcnews.main">Emergency Orders</a></li>
+				<li><a href="/index.cfm?adfg=wildliferegulations.main">Regulations</a></li>
+			</ul>
+		</li>
+	</ul>
+</li>
+
+
+				
+				
+				
+<li>
+
+<a href="/index.cfm?adfg=subsistence.main">Subsistence</a>
+	<ul>
+		<li>
+			<a href="/index.cfm?adfg=divisions.subsoverview">Subsistence Section Overview</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=divisions.subsmission">Mission and Core Services</a></li>
+				<li><a href="/index.cfm?adfg=divisions.subsorg">Organization</a></li>
+				<li><a href="/index.cfm?adfg=divisions.subsbudget">Budget</a></li>
+				<li><a href="/index.cfm?adfg=divisions.subsstaff">Staff Listing</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=subsistence.harvest">Subsistence Use Information</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=subsistence.hunting">Subsistence Hunting</a></li>
+				<li><a href="/index.cfm?adfg=fishingSubsistence.main">Subsistence Fishing</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.federal">Federal Subsistence</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.nonsubsistence">Nonsubsistence Areas</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.faqs">FAQs</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/index.cfm?adfg=subsistenceregulations.main">Regulations &amp; Permits</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=subsistenceregulations.main">Overview</a></li>
+				<li><a href="/index.cfm?adfg=subsistence.customary">Customary and Traditional Use</a></li>
+				<li><a href="/index.cfm?adfg=subsistenceregulations.finfish">Fishing Regulations</a></li>
+				<li><a href="/index.cfm?adfg=subsistenceregulations.wildlife">Hunting and Trapping Regulations</a></li>
+				<li><a href="/index.cfm?adfg=residentfishing.main">Subsistence and Personal Use Fishing Permits</a></li>
+				<li><a href="/index.cfm?adfg=huntlicense.cultural">Cultural and Subsistence Harvest Permits</a></li>
+			</ul>
+		</li>
+		
+		<li><a href="/index.cfm?adfg=subsistence.harvest">Harvest Data &amp; Reports</a>
+			<ul class="thirdlevel">
+				<li><a href="http://www.adfg.alaska.gov/sb/CSIS/">CSIS – Community Subsistence Information System</a></li>
+				<li><a href="http://www.adfg.alaska.gov/sf/publications/">The Technical Papers and Special Publications Series</a></li>
+			</ul>	
+		</li>
+		
+		<li>
+			<a href="/index.cfm?adfg=cfnews.main">Regulatory Announcements</a>
+		</li>
+	</ul>
+</li>
+
+				
+<li>
+	<a href="/index.cfm?adfg=viewing.main">Viewing</a>
+	<ul>
+		<li><a href="/index.cfm?adfg=viewinglocations.main">Where to Go</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewinglocations.southcoastal">Alaska Peninsula, Kodiak &amp; Aleutians</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.anchorage">Anchorage / Mat-Su</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.interior">Interior Alaska</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.kenai">Kenai Peninsula</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.sewardpeninsula">Nome Area</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.northern">Northern Alaska</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.pws">Prince William Sound</a></li>
+				<li><a href="/index.cfm?adfg=southeastviewing.main">Southeast Alaska</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.southwestern">Southwestern Alaska</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.wrangellsteliasglenn">Wrangell-St. Elias Park &amp; Glenn Highway</a></li>
+				<li><a href="/index.cfm?adfg=viewinglocations.accessible">Accessible Facilities</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.locator">Refuges &amp; Sanctuaries</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=viewing.what">What to See</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=birdviewing.main">Birds</a></li>
+				<li><a href="/index.cfm?adfg=viewing.landmammals">Land Mammals</a></li>
+				<li><a href="/index.cfm?adfg=viewing.marinemammals">Marine Mammals</a></li>
+				<li><a href="/index.cfm?adfg=viewing.fish">Fish</a></li>
+				<li><a href="/index.cfm?adfg=viewing.tidepooling">Tidepooling</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=viewing.when">When to Go</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewing.seasonal">Wildlife by Season</a></li>
+				<li><a href="/index.cfm?adfg=viewing.events">Festivals &amp; Events</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=viewing.trailcams">Virtual Viewing</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewing.trailcams">Trailcams</a></li>
+				<li><a href="/index.cfm?adfg=viewing.webcams">Webcams</a></li>
+				<li><a href="/index.cfm?adfg=viewing.video">Video</a></li>
+				<li><a href="/index.cfm?adfg=viewing.podcasts">Audio</a></li>
+				<li><a href="/index.cfm?adfg=viewing.trackingmaps">Tracking Maps</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=viewing.tips">Tips &amp; Safety</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewing.distance">Signs of Alarm</a></li>
+				<li><a href="/index.cfm?adfg=viewing.remotetravel">Remote Travel Tips</a></li>
+				<li><a href="/index.cfm?adfg=viewing.ethics">Viewing Ethics</a></li>
+				<li><a href="/index.cfm?adfg=viewing.spottingwildlife">Spotting Wildlife</a></li>
+				<li><a href="/index.cfm?adfg=viewing.binoculars">Using Binoculars</a></li>
+				<li><a href="/index.cfm?adfg=viewing.photography">Photography</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=viewing.guidebooks">Guides &amp; Checklists</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewing.guidebooks">Guidebooks</a></li>
+				<li><a href="/index.cfm?adfg=viewing.brochures">Brochures</a></li>
+				<li><a href="/index.cfm?adfg=viewing.checklists">Checklists</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=citizenscience.main">Citizen Science</a></li>
+		<li><a href="/index.cfm?adfg=viewingpermits.main">Permits</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=viewingpermits.roundisland">Round Island</a></li>
+				<li><a href="/index.cfm?adfg=viewingpermits.stanprice">Stan Price / Pack Creek</a></li>
+				<li><a href="/index.cfm?adfg=viewingpermits.mcneil_overview">McNeil River</a></li>
+			</ul>
+		</li>
+	</ul>
+</li>
+
+
+				
+<li>
+	<a href="/index.cfm?adfg=education.main">Education</a>
+	<ul>
+		<li><a href="/index.cfm?adfg=educators.main">For Educators</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=educators.homeorschool">At Home or at School</a></li>
+				<li><a href="/index.cfm?adfg=educators.teacherresources">Teacher/School-Based Resources</a></li>
+				<li><a href="/index.cfm?adfg=educators.teachertraining">Teacher Training</a></li>
+				<li><a href="/index.cfm?adfg=educators.earlychildhood">Early Childhood Resources</a></li>
+				<li><a href="/index.cfm?adfg=educators.edpermits">Educational Permits</a></li>
+				<li><a href="/index.cfm?adfg=educators.contacts">Contact an Educator</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=huntered.main">For Hunters</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=huntered.basichunter">Hunter Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.bowhunter">Bowhunter Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.crossbow">Crossbow Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.muzzleloader">Muzzleloader Education</a></li>
+				<li><a href="/index.cfm?adfg=huntered.schedules">Class Schedules</a></li>
+				<li><a href="/index.cfm?adfg=huntered.locations">Class Locations</a></li>
+				
+				
+				<li><a href="/index.cfm?adfg=huntered.womens">Women's Programs</a></li>
+				<li><a href="/index.cfm?adfg=huntered.youth">Youth Programs</a></li>
+				<li><a href="/index.cfm?adfg=huntered.ranges">State Shooting Ranges</a></li>
+				<li><a href="/index.cfm?adfg=huntered.volunteering">Volunteer Instructors</a></li>
+				<li><a href="/index.cfm?adfg=huntered.lostcard">Lost Your Card?</a></li>
+				<li><a href="/index.cfm?adfg=huntered.contacts">Contact Information</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=anglereducation.main">For Anglers</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=outdooreducation.bow">Becoming an Outdoors-Woman</a></li>
+				
+				<li><a href="/index.cfm?adfg=anglereducation.burbot">How to Set Line for Burbot</a></li>
+				
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=outdooreducation.main">Camps &amp; Skills Clinics</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=outdooreducation.alaskansafield">Alaskans Afield</a></li>
+				<li><a href="/index.cfm?adfg=outdooreducation.bow">Becoming an Outdoors-Woman</a></li>
+				<li><a href="/index.cfm?adfg=outdooreducation.foryouth">Camps</a></li>
+				<li><a href="/index.cfm?adfg=outdooreducation.huntered">Hunter Education</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=citizenscience.main">Citizen Science</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=citizenscience.bioblitz">Bioblitz</a></li>
+				<li><a href="/index.cfm?adfg=citizenscience.bats">Bats</a></li>
+				<li><a href="/index.cfm?adfg=citizenscience.woodfrog">Wood Frogs</a></li>
+				<li><a href="/index.cfm?adfg=citizenscience.loonsgrebesoverview">Loons &amp; Grebes</a></li>
+				<li><a href="/index.cfm?adfg=citizenscience.contacts">Contact</a></li>
+			</ul>
+		</li>
+		
+		<li><a href="/index.cfm?adfg=education.calendar">Calendar of Events</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=education.calendar">Upcoming Events</a></li>
+				<li><a href="/index.cfm?adfg=education.communityevents">Community Events</a></li>
+				<li><a href="/index.cfm?adfg=education.educatorevents">For Educators</a></li>
+				<li><a href="/index.cfm?adfg=education.upcomingcamps">Camps &amp; Skills Clinics</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</li>
+
+
+				
+<li>
+	<a href="/index.cfm?adfg=species.main">Species</a>
+	<ul>
+		<li><a href="/index.cfm?adfg=animals.main">Animals</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=animals.listall">List All</a></li>
+				<li><a href="/index.cfm?adfg=animals.listbirds">Birds</a></li>
+				<li><a href="/index.cfm?adfg=animals.listfish">Fish</a></li>
+				<li><a href="/index.cfm?adfg=animals.listinvertebrates">Invertebrates</a></li>
+				<li><a href="/index.cfm?adfg=animals.listmammals">Mammals</a></li>
+				<li><a href="/index.cfm?adfg=animals.listreptiles">Reptiles &amp; Amphibians</a></li>
+			</ul>
+		</li>
+
+
+		<li><a href="/index.cfm?adfg=invasive.main">Invasive</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=invasive.main">Overview</a></li>
+				<li><a href="/index.cfm?adfg=invasive.pathways">Methods of Introduction</a></li>
+				<li><a href="/index.cfm?adfg=invasive.prevention">Prevention</a></li>
+				<li><a href="/index.cfm?adfg=invasive.regulations">Legal Requirements</a></li>
+				<li><a href="/index.cfm?adfg=invasive.report">Report an Invasive Species</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=pets.main">Pets &amp; Livestock</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=pets.main">Overview</a></li>
+				<li><a href="/index.cfm?adfg=pets.exotic">Legal Pets</a></li>
+				<li><a href="/index.cfm?adfg=pets.interactions">Wildlife Interactions</a></li>
+				<li><a href="/index.cfm?adfg=pets.releasing">Releasing Unwanted</a></li>
+				<li><a href="/index.cfm?adfg=pets.disease">Disease Transmission</a></li>
+				<li><a href="/index.cfm?adfg=pets.ornamentalfish">Ornamental Fish</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=specialstatus.main">Special Status</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=specialstatus.akendangered">State Listings</a></li>
+				<li><a href="/index.cfm?adfg=specialstatus.fedendangered">Federal Listings</a></li>
+				<li><a href="/index.cfm?adfg=specialstatus.extinct">Extinct Species</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=livewith.main">Living with Wildlife</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=livingwithbears.main">Bears</a></li>
+				<li><a href="/index.cfm?adfg=livewith.moose">Moose</a></li>
+				<li><a href="/index.cfm?adfg=livewith.muskoxen">Muskoxen</a></li>
+				<li><a href="/index.cfm?adfg=livewith.wolves">Wolves</a></li>
+				<li><a href="/index.cfm?adfg=livewith.woodbison">Wood Bison</a></li>
+				<li><a href="/index.cfm?adfg=livingwithbirds.main">Birds</a></li>
+				<li><a href="/index.cfm?adfg=livingwithbats.main">Bats</a></li>
+				<li><a href="/index.cfm?adfg=livewith.beavers">Beavers</a></li>
+				<li><a href="https://www.adfg.alaska.gov/index.cfm?adfg=reportwildlifeencounter.main">Report Wildlife Encounters</a></li>
+				<li><a href="/index.cfm?adfg=distressedwildlife.main">Stranded, Dead or Orphaned</a></li>
+				<li><a href="/index.cfm?adfg=wildlifelandscaping.main">Landscaping for Wildlife</a></li>
+				<li><a href="/index.cfm?adfg=livewith.collarsbandstags">Collars, Bands and Tags</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=disease.main">Parasites &amp; Diseases</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=disease.main">Diseases of Concern</a></li>
+				<li><a href="/index.cfm?adfg=disease.specieslist">Information by Host Species</a></li>
+				<li><a href="/index.cfm?adfg=disease.diseaselist">List of Diseases and Parasites</a></li>
+				<li><a href="/index.cfm?adfg=disease.vet">Veterinary Services</a></li>
+				<li><a href="/index.cfm?adfg=disease.fishlab">Fish &amp; Shellfish Laboratories</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=wildlifediversity.main">TED</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=wildlifediversity.projects">Current Projects</a></li>
+				<li><a href="/index.cfm?adfg=wildlifediversity.citizenscience">Citizen Science</a></li>
+				<li><a href="/index.cfm?adfg=wildlifediversity.swap">Wildlife Action Plan</a></li>
+			</ul>
+		</li>
+	</ul>
+</li>
+
+
+				
+<li>
+	<a href="/index.cfm?adfg=lands.main">Habitat</a>
+	<ul>
+		
+		<li><a href="/index.cfm?adfg=access.main">Access &amp; Planning</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=access.fh_access">Fishing &amp; Hunting Access</a></li>
+				<li><a href="/index.cfm?adfg=access.use_planning">Land Use &amp; Access Planning</a></li>
+				<li><a href="/index.cfm?adfg=habitatoversight.isfhome">Instream Flow Program</a></li>
+				<li><a href="/index.cfm?adfg=habitatoversight.specialareas">Special Areas Planning</a></li>
+				
+			</ul>
+		</li>
+
+		<li><a href="/index.cfm?adfg=conservationareas.main">Conservation Areas</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=conservationareas.locator">Game Refuges</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.locator">Wildlife Sanctuaries</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.locator">Critical Habitat Areas</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.locator">Wildlife Ranges</a></li>
+				<li><a href="http://www.adfg.alaska.gov/sf/SARR/AWC/">Waters Important to Anadromous Fish</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.marineprotected">Marine Protected Areas</a></li>
+				<li><a href="/index.cfm?adfg=conservationareas.controlleduse">Controlled Use Areas</a></li>
+
+				
+			</ul>
+		</li>
+
+		<li><a href="/index.cfm?adfg=ecosystems.main">Ecosystems</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=ecosystems.list">The Ecosystems</a></li>
+				<li><a href="/index.cfm?adfg=ecosystems.resilience">The Changing Landscape</a></li>
+				
+			</ul>
+		</li>
+		
+		<li><a href="/index.cfm?adfg=uselicense.main">Habitat Permits</a></li>
+
+		<li><a href="/index.cfm?adfg=habitatrestoration.main">Restoration &amp; Enhancement</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=habitatrestoration.stream">Lake and Stream Restoration</a></li>
+				<li><a href="/index.cfm?adfg=fishpassage.main">Fish Passage Improvement Program</a></li>
+				<li><a href="/index.cfm?adfg=habitatrestoration.enhancement">Wildlife Habitat Enhancement</a></li>
+				<li><a href="/index.cfm?adfg=habitatrestoration.landowner">Landowner Assistance</a></li>
+				<li><a href="/index.cfm?adfg=habitatrestoration.resources">Guides and Resources</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</li>
+
+
+				
+<li>
+	<a href="/index.cfm?adfg=regulations.main">Regulations</a>
+	<ul>
+		<li><a href="/index.cfm?adfg=fishregulations.main">Fishing</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=fishregulations.sport">Sport Fishing Regulations</a></li>
+				<li><a href="/index.cfm?adfg=fishregulations.commercial">Commercial Fishing Regulations</a></li>
+				<li><a href="/index.cfm?adfg=fishregulations.personalUse">Personal Use Regulations</a></li>
+				<li><a href="/index.cfm?adfg=fishregulations.Subsistence">Subsistence Regulations</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=wildliferegulations.main">Wildlife</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=wildliferegulations.hunting">Hunting Regulations</a></li>
+				<li><a href="/index.cfm?adfg=wildliferegulations.trapping">Trapping Regulations</a></li>
+				<li><a href="/index.cfm?adfg=wcnews.main">Emergency Orders</a></li> 				
+				<li><a href="/index.cfm?adfg=wildliferegulations.predatorcontrol">Predator Control Regulations</a></li> 
+				<li><a href="/index.cfm?adfg=wildliferegulations.misc">Other Regulations</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=subsistenceregulations.main">Subsistence</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=subsistenceregulations.finfish">Finfish Fisheries</a></li>
+				<li><a href="/index.cfm?adfg=subsistenceregulations.wildlife">Hunting</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=habitatregulations.main">Habitat</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=habitatregulations.special">Special Areas</a></li>
+				<li><a href="/index.cfm?adfg=habitatregulations.prohibited">Fish Habitat</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=process.main">Boards</a>
+			<ul class="thirdlevel">
+				<li><a href="/index.cfm?adfg=gameboard.main">Board of Game</a></li>
+				<li><a href="/index.cfm?adfg=fisheriesboard.main">Board of Fisheries</a></li>
+				<li><a href="/index.cfm?adfg=process.jointboard">The Joint Board</a></li>
+				<li><a href="/index.cfm?adfg=process.commissionerauthorities">Commissioner Authority</a></li>
+				<li><a href="/index.cfm?adfg=process.advisory">Advisory Committees</a></li>
+			</ul>
+		</li>
+		<li><a href="/index.cfm?adfg=enforcement.main">Enforcement</a>
+		</li>
+	</ul>
+</li>
+
+
+			</ul>
+		</nav>
+	</div><!-- end divNav -->
+</div><!-- end navholder-->
+	
+	
+		
+	
+		
+	
+	
+	<div id="contentarea_outer" class="pagerowcontainer with_section_navigation">
+		
+			<div class="hide_alternate_leftnav">
+				<p><a id="click_to_hide_alternate_leftnav">&nbsp; Hide Section Navigation</a></p>
+			</div>
+			<div class="show_alternate_leftnav">
+				<noscript>
+					<style>#click_to_show_alternate_leftnav {display:none;}</style>
+				</noscript>
+				<p>
+					<noscript>
+						<a href="#leftcolumn">Section Navigation</a>
+					</noscript>
+					<a id="click_to_show_alternate_leftnav">Section Navigation</a>
+				</p>
+			</div>
+		
+		
+		<div id="contentarea_inner" class="clearfix">
+			
+				<div id="alternate_leftnav_location">
+					
+				</div>
+			
+			
+			<div id="main_content_wrapper">
+				<div id="main_content_inner">
+					<div id="main_content_inner_padding" class="clearfix">
+						
+						
+						
+							<div id="breadcrumb" class="clearfix">
+	
+	<div class="breadcrumb_text">
+		<span class="for_screen_reader">You are here: </span>
+		<!-- begin breadcrumb trail -->
+		
+
+
+<a href='/index.cfm?adfg=home.main'>ADF&amp;G Home</a> &#187; <a href='/index.cfm?adfg=fishing.main'>Fishing</a> &#187; <a href='/index.cfm?adfg=fishingSport.main'>Sport</a> 
+
+
+
+		<!-- end breadcrumb trail -->
+	</div>
+	
+	
+	
+		
+
+
+
+
+	
+	
+		
+		
+			
+		
+		
+		
+		
+			
+		
+	
+
+
+
+<div id="myadfg_login_area">
+	<span class="login_section_wording">
+		
+			<a href="/index.cfm?adfg=miscapplications.myadfg_login_url">Sign in</a>
+		
+	</span>
+	
+	<div id="global_myadfg_container">
+		<a class="myadfg_link" href="https://www.adfg.alaska.gov/myADFG/">
+			<span class="myadfg_wording">myADF&amp;G</span>
+			<span class="myadfg_image"></span>
+		</a>
+	</div>
+	
+	
+</div>
+
+
+
+	
+</div>
+						
+						
+						<a id="content"></a>
+						
+						<main role="main">
+							<article id="maincontentarticle">
+								
+<h1 class="temph1">Sport Fisheries</h1>
+<div class="section-holder">
+  <div class="leftside-container">
+    <div id="highlights">
+      <h2 style="margin-top:0;">Highlights</h2>
+      <ul>
+        
+        <li><a href="/Static/fishing/pdfs/sport/SFCOVID.pdf">Sport and personal use fishing remain open</a></li>
+        <li><a href="/Static/license/prolicenses/pdfs/Charter Operator COVID-19 Actions Notice.pdf">Letter to Sport Fish guide industry on COVID-19 Health Mandates</a></li>
+        
+        <li><a href="/index.cfm?adfg=fishingSport.musky">Director Rutz's OpEd about Muskies</a></li>
+        
+        <li><a href="/index.cfm?adfg=FishingSportFishAK.reelTimes">Current issue of the wefishak Reel Times Newsletter</a></li>
+        
+        
+        
+        
+        
+        <li><a href="/index.cfm?adfg=pressreleases.pr08252017">ADF&amp;G Asks Fishermen to Report Harvest of Atlantic Salmon</a>
+          <ul>
+            <li><a href="/index.cfm?adfg=invasive.report">How to Report an Invasive Species</a></li>
+          </ul>
+        </li>
+        <li><a href="/index.cfm?adfg=fishingRockfish.main">Rockfish Conservation and Deepwater Release</a></li>
+        <li><a href="/index.cfm?adfg=multimedia.embeddedvideo&videoID=89360635">Shellfish Pot Regulations Video for Southeast</a> </li>
+        <li>Obtain a free <a href="/static/license/sportlicense/pdf/sf_harvest_record_card.pdf">Sport Fishing Harvest Record Card</a></li>
+      </ul>
+    </div><!-- end highlights -->
+    <div class="section_heading">
+      <h2 class="temph2">Overview</h2>
+    </div>
+    <a href="/index.cfm?adfg=fishingSport.restoration">
+      <img src="/static/fishing/images/sport/sf_restoration.gif" class="imageright"
+      alt="Wildlife and Sport Fish Restoration Program" height="72" width="75" />
+    </a>
+    <p>Alaska is a world-renowned sport fishing destination. In fact, in this land of 3,000 rivers, 3 million lakes and 6,640 miles of coastline, a sport angler&rsquo;s greatest challenge can just be deciding where to go. Adding to this challenge is the reality that Alaska is enormous; fishing it all would require one to cast across a million acres of streams, lakes and water-lapped shorelines every day for a full year. Think of it as the old anglers&rsquo; quandary &ndash; so many fish, so little time.</p>
+    <p><img src="/static/fishing/images/sport/landing-page4.jpg" class="imageleft" alt="sport fishing" width="200" height="237">The mission of the Division of Sport Fish is to protect, maintain and improve these valuable sport fisheries, by overseeing Alaska&rsquo;s wide range of sport fisheries, as well as many personal use fisheries. Established in the territorial days of 1951, the division&rsquo;s creation coincided with the passage of the Dingell-Johnson Act, which established an excise tax on items such as fishing tackle, and motor boat fuel. These Sport Fish Restoration funds are then distributed back to the states to conduct activities such as sport fisheries management, research, and restoration.</p>
+    <p>Our biologists, researchers, and technicians are in the field 12 months per year, monitoring and managing a wide range of fish species, from Alaska&rsquo;s Southeast Panhandle to the high Arctic. Look for us when you&rsquo;re out enjoying your day on the water. But check in here first. We&rsquo;ll strive to have the answers to your questions, and we can help you get settled on where to start your next fishing adventure.</p>
+    <p><a href="http://www.adfg.alaska.gov/index.cfm?adfg=FishingSportFishAK.gofishak"><img src="/static/fishing/images/sport/gofishakadvert.jpg" class="imagecenter" alt="newapp" width="423" height="213"></a></p>
+  </div>
+  <div class="rightside-container">
+    <div class="rightside-section">
+      <div class="section_heading">
+        <h2 class="temph2">Fisheries by Area</h2>
+      </div>
+      <dl id="gmap" class="sport-map">
+        <dt><a id="title2" href=""></a></dt>
+        <dd><a id="sport-interior" title="interior" href="/index.cfm?adfg=SportByAreaInterior.main"></a></dd>
+        <dd><a id="sport-southcentral" title="southcentral" href="/index.cfm?adfg=SportByAreaSouthcentral.main"></a></dd>
+        <dd><a id="sport-southeastern" title="southeastern" href="/index.cfm?adfg=SportByAreaSoutheast.main"></a></dd>
+      </dl><!-- end gmap -->
+      <p style="text-align:center;">Click on the map to navigate by Area</p>
+      <div class="section_heading">
+        <h2 class="temph2">Quick Links</h2>
+      </div>
+      <div id="mischolder2">
+        <ul>
+          <li class="doubleline"><a href="/sf/FishingReports/"><img src="/static/_global/images/icons/govdelivery_envelope_blue.png" alt="Fishing Reports" />Sport Fishing Updates</a></li>
+          <li><a href="/sf/EONR/"><img src="/static/_global/images/icons/news_releases.png" alt="" /> Press Releases/EOs</a></li>
+          <li><a href="/store/"><img src="/static/_global/images/icons/buy_a_license.png" alt="" /> Buy Licenses Online</a></li>
+          <li><a href="/index.cfm?adfg=FishingSportFishAK.howToVideos"><img src="/static/_global/images/icons/information.png" alt="" /> How-To Videos</a></li>
+          <li><a href="/index.cfm?adfg=fishing.matrix"><img src="/static/_global/images/icons/types_of_fishing.png" alt="" /> Types of Fishing I Can Do</a></li>
+          <li><a href="/sf/sportfishingsurvey/"><img src="/static/_global/images/icons/harvest_info.png" alt="" /> Harvest Info</a></li>
+          <li><a href="/index.cfm?adfg=fishregulations.sport"><img src="/static/_global/images/icons/regulations.png" alt="" /> Regulations</a></li>
+          <li><a href="/index.cfm?adfg=library.main"><img src="/static/_global/images/icons/elibrary.png" alt="" /> e-Library</a></li>
+          <li><a href="/index.cfm?adfg=animals.main"><img src="/static/_global/images/icons/types_of_fishing.png" alt=""/>Species Information</a></li>
+          <li><a href="/index.cfm?adfg=SFGuidesLicense.main"><img src="/static/_global/images/icons/guides.gif" alt="">Sport Fish Guiding</a></li>
+          <hr>
+        </ul>
+      </div><!-- end mischolder2 -->
+      <div>
+        <ul class="nobullet">
+          <li>
+            <a href="/static/fishing/PDFs/sport/StrategicPlan2015Final.pdf">Division of Sport Fish Strategic Plan</a>
+            <ul>
+              
+              <li><a href="/static/fishing/PDFs/sport/Survey_Report-2018-9-19.pdf">Sport Fishing Regulations Angler Survey Report</a></li>
+            </ul>
+          </li>
+          <li style="margin-bottom:5px;"><a href="/index.cfm?adfg=librarypublications.publications_reports#fisheries">Scientific and Technical Publications</a></li>
+          <li style="margin-bottom:5px;"><a href="/index.cfm?adfg=fishingSportFishingInfo.fishingwithbears">Fishing with Bears</a></li>
+          
+        </ul>
+      </div>
+    </div><!-- end rightside-section -->
+  </div><!-- end rightside-container -->
+</div><!-- end section holder -->
+
+
+								
+								
+									
+	<div class="line_above_social_media noprint"></div>
+	
+	<div class="social-all-container">
+		<div class="share-container">
+			<ul class="social-likes social-likes_single" data-counters="no" data-single-title="Share">
+				<li class="facebook" title="Share link on Facebook">Facebook</li>
+				<li class="twitter" title="Share link on Twitter">Twitter</li>
+				<li class="plusone" title="Share link on Google+">Google+</li>
+				<li class="reddit" title="Share link on Reddit">Reddit</li>
+			</ul>
+		</div>
+		
+		<div id="facebookHolder"></div>
+	</div>
+	
+	<!-- Use css to disable facebook section if javascript is off -->
+	<noscript>
+		<style type="text/css">
+			#facebookHolder {display: none;}
+		</style>
+	</noscript>
+	
+	
+	
+	
+
+
+								
+							</article>
+						</main>
+					</div><!-- end main_content_inner_padding -->
+				</div><!-- end main_content_inner -->
+			</div><!-- end main_content_wrapper -->
+			
+			
+				<div id="normal_leftnav_location">
+					<div id="leftcolumn">
+						<nav role="navigation">
+							<a id="secondarynav"></a>
+							<h2>Section Navigation</h2>  
+				
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <p class='navtitle'>Sport Fishing</p><ul><li class="active"><!-- case5 --><a href="/index.cfm?adfg=fishingSport.main">Sport Fish Home</a></li><!-- 205 --><li><!-- case18 --><a href="/index.cfm?adfg=FishingSportFishAK.main">wefishak</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingSportFishingInfo.main">Fishing Information</a></li><!-- 221 --><li><!-- case17 --><a href="/SF_Lakes/">Alaska Lake Database</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingSportByArea.main">Information By Area</a></li><!-- 221 --><li><!-- case17 --><a href="/sf/FishCounts/">Fish Counts</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingSportBoatingAnglerAccess.main">Boating & Angler Access Programs</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingSportStockingHatcheries.main">Hatcheries & Stocking</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingSportLakeData.main">Lake Fishing Info</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=SportProxyFishing.main">Proxy Fishing</a></li><!-- 221 --><li><!-- case18 --><a href="/index.cfm?adfg=fishingRockfish.main">Rockfish</a></li><!-- 221 --></ul><!-- 224 -->
+
+
+
+						</nav>
+					</div><!-- end leftcolumn -->
+				</div><!-- end normal_leftnav_location -->
+			
+		</div><!-- end contentarea_inner -->
+	</div><!-- end contentarea_outer -->
+	
+	<footer role="contentinfo">
+		
+
+<div id="footer_adfg" class="pagerowcontainer clearfix">
+	<div id="footerlinks_onleft">
+		<ul class="footer_social_icons">
+			<li><a class="facebook_icon_footer" href="https://www.facebook.com/alaskafishandgame"><span class="for_screen_reader">Visit our Facebook page</span></a></li>
+			<li><a class="vimeo_icon_footer" href="http://vimeo.com/adfg"><span class="for_screen_reader">Visit our Vimeo page</span></a></li>
+			<li><a class="youtube_icon_footer" href="http://www.youtube.com/user/alaskafishandgame"><span class="for_screen_reader">Visit our YouTube page</span></a></li>
+			
+		</ul>
+		
+		<ul class="more_footer_links">
+		    <li><a href="/index.cfm?adfg=home.accessibility">Accessibility</a></li>
+		    <li><a href="/index.cfm?adfg=home.terms">Terms of Use</a></li>
+		    <li><a href="/index.cfm?adfg=contacts.subject">Contact ADF&amp;G</a></li>
+		</ul>
+		
+		
+		
+	</div>
+	
+	<p class="footer_adfg_contact_info">
+		<span>Alaska Department of Fish and Game</span><br>
+		P.O. Box 115526<br>
+		1255 W. 8th Street<br>
+		Juneau, AK 99811-5526<br>
+		
+		<a href="/index.cfm?adfg=contacts.main">Office Locations</a>
+	</p><!-- end footer_adfg_contact_info -->
+	
+	
+	
+		
+		
+		
+</div><!-- end footer_adfg -->
+
+
+		<div id="footer_soa" class="pagerowcontainer">
+	<ul class="footer_soa_links">
+		<li><a href="http://www.alaska.gov">State of Alaska</a></li>
+		<li><a href="http://my.alaska.gov">myAlaska</a></li>
+		<li><a href="http://www.alaska.gov/akdir1.html">Departments</a></li>
+		<li><a href="http://www.alaska.gov/employeeHome.html">State Employees</a></li>
+	</ul>
+
+	<p class="footer_soa_copyright">
+		<a href="/index.cfm?adfg=home.copyright">Copyright</a> &copy; State of Alaska &#183; Department of Fish and Game &#183; <a href="/index.cfm?adfg=contacts.emailus">Email Us</a>
+	</p>
+
+	<p class="return_to_top"><a href="#skip">Top of page</a></p>
+
+	
+</div>
+	</footer>
+	
+	<!-- begin page end misc code -->
+	
+	
+	<div id="empty_div_for_matching_css_width_to_js_width"></div>
+	<!-- end page end misc code -->
+	
+	<!-- begin page end javascript code -->
+	
+	
+
+	
+
+	
+		
+		<script type="text/javascript" src="/static/_global/layouts/2017_responsive/js/jquery-1.11.1.min.js"></script>
+	
+		
+		<script type="text/javascript" src="/static/_global/layouts/2017_responsive/js/navmenu.js"></script>
+	
+		
+		<script type="text/javascript" src="/static/_global/layouts/2017_responsive/js/add_native_language_greeting.js" async></script>
+	
+		
+		<script type="text/javascript" src="/static/_global/layouts/2017_responsive/js/social-likes.js"></script>
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+<script nonce="">
+	
+		
+		
+		
+		
+		
+		
+	
+	
+		
+			function showLeftnavAtTop ()
+			{
+				$( "#alternate_leftnav_location").hide();
+				$( "#normal_leftnav_location" ).clone().appendTo( "#alternate_leftnav_location" );
+				$( "#alternate_leftnav_location").slideDown();
+				$( ".show_alternate_leftnav" ).addClass( "hide_me" );
+				$( ".hide_alternate_leftnav" ).addClass( "show_me" );
+			}
+
+			function hideLeftnavAtTop ()
+			{
+				$( "#alternate_leftnav_location").slideUp("normal", function() {
+					$( "#alternate_leftnav_location" ).empty();
+				});
+				$( ".hide_alternate_leftnav" ).removeClass( "show_me" );
+				$( ".show_alternate_leftnav" ).removeClass( "hide_me" );
+			}
+		
+	
+
+	
+		
+		
+		
+		
+		
+		
+	
+	
+		$(function() {
+			// init styles
+			$('#headerarea').addClass('js_search_enabled');
+			$('#search_icon_placeholder').on( "click", function() {
+				$('#headerarea').addClass('js_search_icon_was_clicked');
+				$('#search_input_area').focus();
+			});
+		});
+		
+		
+			$( "#click_to_hide_alternate_leftnav" ).on( "click", hideLeftnavAtTop );
+			$( "#click_to_show_alternate_leftnav" ).on( "click", showLeftnavAtTop );
+		
+		
+		
+	
+
+	
+		
+		
+		
+		
+		
+		
+	
+
+		$(window).resize(function () {
+			setNavState();
+		});
+
+		$(document).ready(function() {
+			setNavState();
+		});
+
+		function setNavState() {
+			if (!$("#navholder").is(":visible")) {
+				if ($("#CrushedGlobalNavigation").length) {
+					showShortNav();
+				} else {
+					initShortNav();
+				}
+			} else {
+				showFullNav();
+			}
+		}
+
+		function showShortNav() {
+			
+			$("#CrushedGlobalNavigation").show();
+		}
+
+		function showFullNav() {
+			
+			$("#CrushedGlobalNavigation").hide();
+		}
+
+		function initShortNav() {
+
+			
+
+			var globalNavClone = ($('#divNav').clone());
+			globalNavClone.prop('id', 'CrushedGlobalNavigation');
+			globalNavClone.find('*').unbind().removeAttr("style");
+			globalNavClone.prepend('<div class="crushedGlobalNavOpener"><p>Site Navigation</p></div>');
+			var menu = globalNavClone.find('.sf-menu');
+			menu.removeClass('sf-menu sf-navbar sf-js-enabled');
+			menu.hide();
+			globalNavClone.insertAfter('#primarynav');
+			showShortNav();
+
+			var listElementsWithFirstAnchors = $('#CrushedGlobalNavigation li').has('ul').find('a:first');
+			listElementsWithFirstAnchors.addClass('arrow').addClass('up');
+
+			// generate links for unfolding sections
+			listElementsWithFirstAnchors.each( function(index) 
+			{
+				var linkToClone = $(this);
+				var clonedLink = linkToClone.clone();
+				clonedLink.removeClass('arrow');
+				clonedLink.removeClass('up');
+
+				if (clonedLink.text() === 'Home') {
+					clonedLink.text('ADF&G Home');
+				} else {
+					clonedLink.text(clonedLink.text() + ' Home');
+				}
+
+				clonedLink.prependTo(linkToClone.next('ul'));
+				clonedLink.wrap('<li></li>');
+			});
+
+			$('.crushedGlobalNavOpener').on('click', function(e) {
+				if (menu.is(':hidden')) {
+					menu.slideDown();
+					$(".crushedGlobalNavOpener p").html('Hide Site Navigation');
+				} else {
+					menu.slideUp();
+					$(".crushedGlobalNavOpener p").html('Site Navigation');
+				}
+			});
+
+			$('#CrushedGlobalNavigation a').on('click', function(e) {
+				var clickedLink = $(this);
+				if (clickedLink.next('ul').length === 1) 
+				{
+					e.preventDefault();
+					clickedLink.parent().siblings().children('ul').slideUp();
+					clickedLink.parent().siblings().children('a.arrow:first-child').removeClass('down');
+					clickedLink.parent().siblings().children('a.arrow:first-child').addClass('up');
+					clickedLink.removeClass('up');
+					clickedLink.addClass('down');
+					var nextUl = $(this).nextAll('ul');
+					nextUl.slideToggle(
+						function() {
+							if ($(this).is(':hidden')) { 
+								clickedLink.removeClass('down');
+								clickedLink.addClass('up');
+							}
+					});
+				}
+			});
+		}
+	
+
+	
+		
+		
+		
+		
+		
+		
+		
+			$(document).ready(function() {
+				$("#facebookHolder").show();
+				$("#facebookHolder").one("mouseover", function() {
+					$("#facebookHolder").css("background-image", "none");
+					$("#facebookHolder").html("<strong>LOADING...</strong>");
+					$.ajax({
+						async: true,
+						crossDomain: true,
+						dataType: "script",
+						error: function() {
+							$("#facebookHolder").html("COULD NOT CONNECT TO FACEBOOK.");
+						},
+						success: function() {
+							$("#facebookHolder").html("");
+							$("#facebookHolder").append('<div class="fb-like" data-href="' + window.location.href + '" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>');
+							if (typeof(FB) != "undefined" && FB != null) {
+								FB.init({ 
+									status: true, 
+									cookie: true, 
+									xfbml: true, 
+									appId: 280371428714163
+								});
+							}
+						},
+						timeout: 15000,
+						url: "http://connect.facebook.net/en_US/all.js#xfbml=1"
+					});
+				});
+			});
+		
+	
+	
+		
+		
+		
+		
+		
+		
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/7095.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+
+	
+</script>
+
+
+	<!-- end page end javascript code -->
+	
+	
+	
+	
+	
+		
+		
+		
+</body>
+</html>
+
+	
+
+

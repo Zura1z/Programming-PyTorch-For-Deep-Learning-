@@ -1,0 +1,78 @@
+<html lang="en-US"><head>
+<title>g6's Photo Galleries at pbase.com</title>
+<link rel="stylesheet" type="text/css" href="https://ap1.pbase.com/styles/gallery2.v2.css">
+<link rel="stylesheet" type="text/css" href="https://css.pbase.com/styles/73599.css">
+<meta property="og:site_name" content="PBase"/>
+<meta property="og:title" content=" Galleries by g6"/>
+<meta property="og:type" content="gallery"/>
+<meta property="og:image" content="https://ap1.pbase.com/site/pbloading_static.gif"/>
+<meta property="og:url" content="https://pbase.com/g6/root"/>
+<meta property="fb:admins" content="1056217662"/>
+<meta property="fb:page_id" content="204057099643592"/>
+<meta name="pinterest" content="nopin" />
+<base href="https://pbase.com">
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/jquery-1.9.1.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/jquery.mobile.custom.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/ajaxRequestObject.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/ajaxVote.v2.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/common.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/paging.v8.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://ap1.pbase.com/js/comments.v4.js"></script>
+<link rel="alternate" href="https://feeds.pbase.com/feeds/g6/galleries.atom" title="g6's Gallery Updates" type="application/atom+xml" />
+</head><body>
+<TABLE border=0 cellspacing=0 cellpadding=0 width="100%"><tr>
+<td><A HREF="https://pbase.com" target="_top" title="pbase photos"><IMG src="https://ap1.pbase.com/site/m_pbase.gif" border=0 alt="photo sharing and upload"></A></td>
+<td><A HREF="https://pbase.com/galleries" target="_top" title="recent picture uploads"><IMG src="https://ap1.pbase.com/site/m_g.gif" border=0 alt="picture albums"></A></td>
+<td><A HREF="https://forum.pbase.com" target="_top" title="photography discussion forums"><IMG src="https://ap1.pbase.com/site/m_f.gif" border=0 alt="photo forums"></A></td>
+<td><A HREF="https://pbase.com/search" target="_top" title="pbase photo search"><IMG src="https://ap1.pbase.com/site/m_s.gif" border=0 alt="search pictures"></A></td>
+<td width="100%"><A HREF="https://pbase.com/galleries?view=popular" target="_top" title="popular photos"><IMG src="https://ap1.pbase.com/site/m_sp.gif" border=0 height="28" width="100%" alt="popular photos"></a></td>
+
+<td><A HREF="https://pbase.com/help" target="_top" title="give me some help"><IMG src="https://ap1.pbase.com/site/m_h.gif" border=0 alt="photography help"></A></td>
+<td><A HREF="https://pbase.com/login" target="_top" title="login to pbase"><IMG src="https://ap1.pbase.com/site/m_l.gif" border=0 alt="login"></A></td>
+</tr></table>
+<!-- END menu bar -->
+
+Non-existent gallery specified in URL.  Displaying g6's root gallery.<br>
+<table border=0 width="100%">
+<tr>
+<td align=left >
+<b>
+g6
+ | 
+<a HREF="/g6/profile" title="goto g6's home page">profile</a>
+ | 
+<a HREF="/g6/guestbook" title="goto g6's guestbook">guestbook</a>
+ | 
+<span class="treepath">
+all galleries | <A href="/g6/root&amp;view=recent" rel="nofollow">recent</A>
+
+</span>
+</b>
+</td>
+<td  align=right nowrap valign=top>
+<b>
+<a href="/g6/root&amp;view=tree" rel="nofollow">tree view</a>
+ | thumbnails</b>
+</td>
+</tr>
+</table>
+<DIV id="page-1">
+<DIV class="thumbnails">
+
+<CENTER>
+<TABLE border=0 cellpadding=15 width="50%" cellspacing=15>
+<TR valign=middle>
+
+</TR></TABLE>
+</CENTER>
+
+</DIV>
+This gallery is empty.<br><DIV class="gallery_comments">
+</DIV>
+<DIV class="gallery_hitcounts">
+<font size=small><i>click on thumbnails for full image</i></font></DIV>
+</DIV>
+<script src="https://ap1.pbase.com/js/social.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,410 @@
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head><title>Zoomshare - Make a website, online photo album, blog, e-mail, shop, hosting</title><meta name="keywords" content="web page, website, domain, affordable web hosting, create a web site, design web site, Stats, shopping cart, web pages, web site, blog, calendar, build a web site, photo album, blog, email, hosting, sto
+rage, file storage, personal website"><meta name="description" content="Build a website, photo album, blog, shopping cart, email, and get a vanity domain with Zoomshare."><link href="css/yui-index.css" type="text/css" rel="stylesheet"><link href="css/zm-index.css" type="text/css" rel="stylesheet"><script type="text/javascript">
+                var TLD = (location.hostname.indexOf("dwqa")>-1) ? 'dwqa' : 'com';
+    </script><script type="text/javascript" src="js/jquery.js"></script><script type="text/javascript" src="js/yui-index.js"></script><script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-3370800852844528");
+    GS_googleEnableAllServices();
+    </script><script type="text/javascript">
+    GA_googleAddSlot("ca-pub-3370800852844528", "ZSHome");
+    </script><script type="text/javascript">
+    GA_googleFetchAds();
+    </script><script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-3370800852844528");
+    GS_googleEnableAllServices();
+    </script><script type="text/javascript">
+    GA_googleAddSlot("ca-pub-3370800852844528", "ZSHome");
+    </script><script type="text/javascript">
+    GA_googleFetchAds();
+    </script><script type="text/javascript">
+    /* <![CDATA[ */
+
+      // common ns
+      var C = YAHOO.util.Cookie;
+      var D = YAHOO.util.Dom;
+      var E = YAHOO.util.Event;
+      //var M = google.maps;
+      var W = YAHOO.widget;
+
+      // browse widget vars, a temp convenience
+      //var Cities = ZSFat.Cities, CCategories = ZSFat.Cat;
+      var ads_map, loc_map, loc_menu, pane;
+
+      function calllogin(){
+        var f = document.getElementById('zslogin');
+        f.action = 'https://ssl.zoomshare.'+TLD+'/:slogin';
+        f.validate = function () {
+          var rc = false;
+          var u;
+          var p = f['p'].value;
+          try {
+            f['u'].value =
+            f['u'].value.replace(/^\s+/,'').replace(/\s+$/,'').toLowerCase();
+            u = f['u'].value;
+            if (! u.match(/\w/)) {
+              f['u'].focus(); throw('Please enter your username');
+            }
+            if (! p.match(/\w/)) {
+              f['p'].focus(); throw('Please enter your password');
+            }
+            if (u.match(/.\@.+/)) {
+              f['u'].focus();
+              throw(u + "looks like an e-mail address, not a username");
+            }
+            if (u.match(/[^a-z0-9\-]/)) {
+              f['u'].focus();
+              throw("Your username may only contain letters, " +
+                "numerals and hyphens");
+            }
+            rc = true;
+          }
+          catch (e) { alert(e); }
+          finally { return rc; }
+        };
+        return f.validate();
+      }
+
+
+    /* ]]> */
+    </script><style type="text/css">
+        .continent { font-weight: bold }
+        .little { font-size: 80% }
+        a:hover { color:#990000 }
+        .menu {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        font-size:13px;
+}
+.menu li {
+        padding: 0;
+        margin: 0 2px;
+        /*float: left;*/
+        position: relative;
+        /*text-align: center;*/
+}
+.menu a {
+        padding: 20px 5px;
+        display: block;
+        color: #000000;
+        width: 260px;
+        text-decoration: none;
+        font-weight: bold;
+        background: url(img/button.gif) no-repeat center center;
+        text-align:center;
+}
+.menu li div {
+
+
+}
+.detailsflyup { position:absolute; z-index:1000; left:0px; top:0px; display:none; background: url(img/hover3.png) no-repeat;
+        width: 300px;
+        height: 335px;
+        text-align: center;
+        padding: 20px 0px 10px;
+        font-style: normal;
+        display: none;
+        font-size: 14px;
+        font-weight:600;
+}
+        </style></head><body class="yui-skin-sam">
+
+<div align="center">
+<div style="width: 840px">
+
+
+<div id="container">
+<div id="header">
+<table border="0">
+    <tr>
+        <td>
+                <table cellpadding="0" cellspacing="7" border="0" width="830" align="center">
+              <tr>
+                  <td style="width: 175px" align="left"><a href="https://www.zoomshare.com/"><img src="lib/img/logo.png" width="175" height="49" style="border: 0" alt="zoomshare"></a></td>
+                  <td style="width:445px" align="center"><!--<a href="https://ssl.zoomshare.com/"><img src="lib/img/zslogin.png" border="0" alt="Join Zoomshare an Online Community Today!" onmouseover="this.src='img/zslogin2.png'" onmo
+useout="this.src='img/zslogin.png'" /></a>--></td>
+
+                    <td>
+                      <table cellpadding="0" cellspacing="0" width="180" border="0">
+                        <tr>
+                          <td class="login"><form id="zslogin" onsubmit="calllogin()" action="" method="post"><div style="vertical-align:middle; text-align: right">
+                            <table align="right">
+                              <tr>
+                                <td valign="bottom"><strong style="padding: 0px 5px 0 0">Login</strong></td>
+                                <td valign="middle"> <span class="login">username</span><br>
+                          <input type="text" id="u" name="u" size="10" maxlength="255" class="tiny" value="">
+
+                                </td>
+                                <td valign="middle">
+                                 <span class="login">password</span><br>
+                          <input type="password" id="p" name="p" size="10" maxlength="255" class="tiny" value="">
+                                </td>
+                                <td valign="bottom" style="padding:10px 0 0 0">  <input type="submit" name="gobutton" value="go" class="goButton">
+
+                                </td>
+                              </tr>
+                              <tr>
+                                <td colspan="4" align="right"> <a href="https://www.zoomshare.com/zoomshare_forgotpw.html" class="login">forgot username or password?</a>
+                                <br><br>
+                <div><em>Login best used with <a href="https://www.google.com/chrome/" target="_blank">Chrome</a></em> </div>
+
+                                </td>
+                              </tr>
+                            </table>
+                           </div></form></td>
+                        </tr>
+                      </table>
+                        </td>
+                        </tr>
+              <tr>
+                <td valign="middle" colspan="3" align="left">
+                  <table width="100%" class="minitabs" border="0" style="display:none">
+                    <tr>
+                      <td align="center">
+                       <ul>
+                                <li style="display:none"><a href="/employment.shtml">Employment</a></li>
+                            <li style="text-align:center"><a href="/upgrade.shtml" style="color:#ff0; font-size:130%">Upgrade, Sell Online, Get a Domain, $12.95 a Month</a></li>
+                          
+                            
+
+
+                            <li style="color:#FF0; padding:0 0 0 60px; display:none"><a href="https://www.allabout.zoomshare.com/">news</a></li>
+                            
+                                <!--<li><a href="https://www.ssl.zoomshare.com">resources</a></li>--></ul>
+                      </td>
+                    </tr>
+                  </table>
+                  </td>
+              </tr>
+              <tr>
+                <td colspan="3" align="center"> <div align="center">
+       
+                <script type="text/javascript">
+        GA_googleFillSlot("ZSHome");
+        </script>
+        </div></td>
+              </tr>
+            </table>
+
+
+
+<div style="padding: 0px; font-size:90%" align="left">
+<hr style="border-top:#318AC3 1px solid; ">
+<div style="text-align:center; font-size:90%">
+<a href="https://www.digitalwork.com" target="_blank">Looking for a Custom Mobile Web Design Website with a Dedicated Design Specialist, www.digitalwork.com can help!</a></div>
+<hr style="border-top:#318AC3 1px solid; ">
+
+
+<h2 align="center" style="color:#8EBA25; font-style:italic; font-weight:bold; font-size:160%;">Sell Online, Get a Vanity Domain, and Save with Annual Upgrade Options</h2>
+
+
+
+
+<table style="background-color:#fefefe; border:1px solid #f8ece7; width:100%;">
+
+        <tr>
+                <td width="16%"> </td>
+        <td style=" text-align:center">
+            <span style="background-color:#C37353; padding:6px 3px; color:#ffffff; font-weight:bold; font-size:120%">Monthly PLUS</span>
+
+            <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:monthlyplus" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" on mouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:monthlyplus">$12.95/month</a></div>
+        </td>
+        <td style="text-align:center">
+            <span style="background-color:#C37353; padding:6px 3px; color:#ffffff; font-weight:bold; font-size:120%"> Annual PLUS </span>
+
+            <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:annualplus" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onm ouseout="this.style.color='#8EBA25'">Buy Now!</a> </div>
+
+             <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:annualplus">$129.50/year</a> <span><img src="lib/img/star-gold.png" alt="Best Value" title="Best Value"></span></div>
+        </td>
+
+        <td style=" text-align:center">
+            <span style="background-color:#C37353; padding:6px 3px; color:#ffffff; font-weight:bold; font-size:120%">Monthly Shop</span>
+
+            <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:monthlyshop" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" on mouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:monthlyshop">$12.95/month</a></div>
+        </td>
+        <td style=" text-align:center">
+            <span style="background-color:#C37353; padding:6px 3px; color:#ffffff; font-weight:bold; font-size:120%">Annual Shop </span>
+
+            <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:annualshop" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onm ouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:annualshop">$129.50/year</a> <span><img src="lib/img/star-gold.png" alt="Best Value" title="Best Value"></span> </div>
+        </td>
+          <td style=" text-align:center; display:none">
+             <span style="background-color:#C37353; padding:6px 3px; color:#ffffff; font-weight:bold; font-size:120%">Select (PLUS &amp; Shop)</span>
+            <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:select" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-decoration:underline" onmouseover="this.style.color='#C37353';" onmouse out="this.style.color='#8EBA25'">Buy Now!</a></div>
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:select">$17/month</a></div>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="padding:10px 3px; background-color:#f8ece7; font-weight:bold; text-align:center">Vanity Domain</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+      <tr>
+        <td style="padding:10px 3px; font-weight:bold; text-align:center">Customized E-mail Address</td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+      <tr>
+        <td style="padding:10px 3px; background-color:#f8ece7; font-weight:bold; text-align:center">Unlimited Site Traffic</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+       <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:3p; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+       <tr>
+        <td style="padding:10px 3px; font-weight:bold; text-align:center">Priority Customer Support - Email</td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+
+     <tr>
+        <td style="padding:10px 3px; background-color:#f8ece7; font-weight:bold; text-align:center">Secure Payment Page</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center">N/A</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center">N/A</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+       <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+       <td style="padding:10px 3px; background-color:#f8ece7; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+
+      <tr>
+        <td style="padding:10px 3px; font-weight:bold; text-align:center">Sell Unlimited Products</td>
+        <td style="padding:10px 3px" align="center">N/A</td>
+        <td style="padding:10px 3px" align="center">N/A</td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+      <tr>
+        <td style="padding:10px 3px; background-color:#f8ece7; font-weight:bold; text-align:center">Accept PayPal Payments</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center">N/A</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center">N/A</td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+        <td style="padding:10px 3px; background-color:#f8ece7; display:none" align="center"><img src="lib/img/tick2.png" style="width:32px; height:32px" alt="Zoomshare Upgrade"></td>
+    </tr>
+       <tr>
+        <td style="padding:10px 3px; font-weight:bold; text-align:center">File Storage</td>
+        <td style="padding:10px 3px" align="center" valign="top">Up to 1 GB</td>
+        <td style="padding:10px 3px" align="center" valign="top">Up to 1 GB</td>
+        <td style="padding:10px 3px" align="center" valign="top">Up to 250 MB</td>
+        <td style="padding:10px 3px" align="center" valign="top">Up to 250 MB</td>
+        <td style="padding:10px 3px; display:none" align="center" valign="top">Up to 1 GB</td>
+    </tr>
+    <tr>
+        <td style="padding:10px 3px; background-color:#f8ece7;" align="center"> </td>
+        <td style="padding:10px 3px; background-color:#f8ece7;" align="center">  <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:monthlyplus" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; te
+xt-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onmouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:monthlyplus">$12.95/month</a></div></td>
+
+        <td style="padding:10px 3px; background-color:#f8ece7;" align="center"> <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:annualplus" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text
+-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onmouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+             <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:annualplus">$129.50/year</a> <span><img src="lib/img/star-gold.png" alt="Best Value" title="Best Value"></span></div></td>
+        <td style="padding:10px 3px; background-color:#f8ece7;" align="center"><div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:monthlyshop" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text
+-decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onmouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+
+            <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:monthlyshop">$12.95/month</a></div></td>
+
+        <td style="padding:10px 3px; background-color:#f8ece7;" align="center"><div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:annualshop" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-
+decoration:underline; display:none" onmouseover="this.style.color='#C37353';" onmouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+        <div style="padding-top:8px"><a href="https://ssl.zoomshare.com/:annualshop">$129.50/year</a> <span><img src="lib/img/star-gold.png" alt="Best Value" title="Best Value"></span></div>
+        </td>
+        <td style="padding:10px 3px; background-color:#f8ece7; display:none" align="center"> <div style="padding-top:10px"><a href="https://ssl.zoomshare.com/:select" style="color:#8EBA25; font-size:120%; font-style:italic; font-weight:bold; text-dec
+oration:underline" onmouseover="this.style.color='#C37353';" onmouseout="this.style.color='#8EBA25'">Buy Now!</a></div>
+            <div style="padding-top:8px; display:none"><a href="https://ssl.zoomshare.com/:select">$17/month</a></div></td>
+    </tr>
+</table>
+<br>
+ 
+<!--   <script type="text/javascript">
+$(document).ready(function(){
+
+        $(".menu a").hover(function() {
+                var pos=$(this).offset();
+                $("#"+this.parentNode.id+"flyup").css("left",pos.left+256).css("top",pos.top-10).show();
+        }, function() {
+                // $(this).next("em").animate({opacity: "hide", top: "-85"}, "fast");
+                $("#"+this.parentNode.id+"flyup").hide();
+        });
+
+});
+</script>
+<ul class="menu">
+        <li id="monthlyplus">
+                <a href="https://ssl.zoomshare.com/:monthlyplus">Monthly PLUS<br /><span style="color:#cc3300; font-weight:bold">Buy Now!</span></a>
+
+        </li>
+        <li id="monthlyshop">
+                <a href="https://ssl.zoomshare.com/:monthlyshop">Monthly Shop<br /><span style="color:#cc3300; font-weight:bold">Buy Now!</span></a>
+        </li>
+        <li id="select">
+                <a href="https://ssl.zoomshare.com/:select">Select (PLUS-Shop Combo)<br /><span style="color:#cc3300; font-weight:bold">Buy Now!</span></a>
+        </li>
+    <li id="annualplus">
+                <a href="https://ssl.zoomshare.com/:annualplus">Annual PLUS<br /><span style="color:#cc3300; font-weight:bold">Buy Now!</span></a>
+        </li>
+    <li id="annualshop">
+                <a href="https://ssl.zoomshare.com/:annualshop">Annual Shop<br /><span style="color:#cc3300; font-weight:bold">Buy Now!</span></a>
+        </li>
+
+</ul>
+<div id="monthlyplusflyup" class="detailsflyup">Vanity Domain <br /><br />Customized E-mail Address<br /><br />File Storage Up to 1GB<br /><br />Unlimited Site Traffic<br /><br />Priority Customer Support - Email<br /><br />$6.95/month</
+div>
+
+<div id="monthlyshopflyup" class="detailsflyup">Vanity Domain<br /><br />Customized E-mail Address<br /><br />Unlimited Site Traffic<br /><br />Sell Unlimited Products<br /><br />Accept PayPal Payments<br /><br />Secure Payment Page<br /
+><br />Priority Customer Support - Email<br /><br />$6.95/month</div>
+
+<div id="selectflyup" class="detailsflyup">Vanity Domain<br /><br />Customized E-mail Address<br /><br />File Storage Up to 1GB<br /><br />Unlimited Site Traffic<br /><br />Sell Unlimited Products<br /><br />Accept PayPal Payments<br /><
+br />Secure Payment Page<br /><br />Priority Customer Support - Email<br /><br />$9.95/month</div>
+
+<div id="annualplusflyup" class="detailsflyup">Vanity Domain<br /><br />Customized E-mail Address<br /><br />File Storage Up to 1GB<br /><br />Unlimited Site Traffic<br /><br />Priority Customer Support - Email<br /><br />$69.95/year</di
+v>
+
+<div id="annualshopflyup" class="detailsflyup">Vanity Domain<br /><br />Customized E-mail Address<br /><br />Unlimited Site Traffic<br /><br />Sell Unlimited Products<br /><br />Accept PayPal Payments<br /><br />Secure Payment Page<br />
+<br />Priority Customer Support - Email<br /><br />$69.95/year</div>
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+--></div>
+
+                </td>
+        </tr>
+</table>
+  </div>
+  </div>
+
+  <div class="block" id="footer">
+    <a href="/privacyPolicy.shtml">privacy policy</a> | <a href="/tos.shtml">terms of service</a> | <a href="/intellectual.shtml">intellectual property</a> | <a href="#" oncl ick="window.open('/:interactivehelp', 'contactUs', 'height=282,width=545,menubar=no,toolbar=no,scrollbars=yes,resizable=yes')">zoomshare faqs</a> | <a style="text-decoration:underline" href="mailto:customerservice@zoomshare.com?subject=C
+ustomer Service Inquiry from Zoomshare.com">contact us</a> <br>
+
+  <span class="tiny2">Copyright © 1998-2020 DW Data, Inc. All Rights Reserved.<br>
+  DigitalWork, I-Works, TotalWeb and zoomshare are trademarks of DW Data, Inc. and may be registered in certain jurisdictions.</span>
+  </div>
+</div>
+</div>
+  </body><script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+    _uacct = "UA-83262-2";
+    urchinTracker();
+  D.get('u').select();
+  </script></html>

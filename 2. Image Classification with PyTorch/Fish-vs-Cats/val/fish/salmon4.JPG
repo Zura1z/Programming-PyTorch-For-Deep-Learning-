@@ -1,0 +1,2014 @@
+<!--  Default ver 1.2.2 --> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">   
+<!--Default_FS ver  1.2.2 -->                               
+
+                              
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">  
+<!--  head  ver 4.44 -->
+
+<head>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+ 
+<script type="text/javascript">
+        var bidiSupport = new Object();
+        bidiSupport.bidiAlignRight = "right";
+        bidiSupport.bidiAlignLeft = "left"; 
+        bidiSupport.bidiDirAttr = ""; 
+        bidiSupport.bidiImageRTL = null;
+        bidiSupport.isRTL = false;
+</script>
+
+
+<title> 
+	    Region 10 - Home
+	</title><!--<link href='about:blank' rel="shortcut icon" /> -->
+<link href='/Internet/scr/img/favicon.ico' rel="shortcut icon" />
+
+          
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/reset.min.css' rel="styleSheet" type="text/css" />
+
+   
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles.min.css' rel="styleSheet" type="text/css" />
+
+<link  href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/print.min.css'  title="Printer-Friendly Style" media="print" rel="stylesheet" type="text/css" />    
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles_pib.css' rel="styleSheet" type="text/css" />
+<script type="text/javascript" src="/wps/menu/menu_service.js"></script>
+<script type="text/javascript" >var menuService_AppletCodebase ="/wps/menu";</script>
+                                                                                                                            
+                        
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />                                                                    
+	<meta http-equiv="content-style-type" content="text/css" />                                                                     
+	<meta http-equiv="content-script-type" content="text/javascript" />
+        <meta name="google-site-verification" content="Ax0L7VHnhaVUM12uQO_hUgIiJA_vP_rRWuV9JkSEywM" />
+ 
+        
+	                        
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/rollover.js' type="text/javascript"></script>    
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ftiens4.js' type="text/javascript"></script>
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ua.js' type="text/javascript"></script>
+	                                                                                          
+	<!--Script Files for FCKEditor --><!-- Script for new foresee START 2-->
+	
+	<script type="text/javascript">
+	var subsiteCode = "1110"; 
+	
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fs-fed-us/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+
+	</script>
+	<!-- Script for new foresee END -->
+	
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/yahoo_2.0.0-b3.js' 	></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/event_2.0.0-b3.js' 	></script>
+    	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/dom_2.0.2-b3.js' 		></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ie-select-width-fix.js'></script>
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+	<script>
+    		var $pjq = jQuery.noConflict();
+	</script> 
+
+
+        
+
+		<script>
+			djConfig = {
+				parseOnLoad : true,
+				isDebug : false
+
+			};
+		</script>
+
+		<link rel="stylesheet" type="text/css"
+		href="/Internet/scr/dojo/dojo-1.9/dijit/themes/fsclaro/fsclaro.css" />
+        <script type="text/javascript" src="/Internet/scr/dojo/dojo-1.9/dojo/dojo.js">
+        </script>
+        
+	
+	
+	
+	<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+  
+	  _gaq.push(['b._setAccount', 'UA-22225025-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+	  _gaq.push(['a._setAccount', 'UA-27627304-16']);
+	  _gaq.push(['a._setDomainName', 'usda.gov']);
+	  _gaq.push(['a._setAllowLinker', true]);
+	  _gaq.push(['a._trackPageview']);
+
+	  _gaq.push(['b._setAccount', 'UA-27627304-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+
+  
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();ga("send", "pageview");
+  
+	</script>
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">function googleAna(gkey){try{
+	//var pageTracker=_gat._getTracker(gkey);
+	//pageTracker._trackPageview();
+	// The new asynchronous syntax
+	_gaq.push(['_setAccount', gkey]);
+	_gaq.push(['_trackPageview']);
+	}catch(err){}}
+	</script>
+	<!-- script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script -->
+	<!-- Google Analytics -->
+
+
+
+
+
+	<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=FS"></script>               
+
+</head>   
+                                                                                                                      
+	<body >                                                                                                                                                              		  	   
+		<table id="wptheme_pageArea" summary="" align="center"  border="0" cellpadding="0" cellspacing="0">                         
+		<!-- @@@@: Removed class="WIDBackgroundColor" from the table tag above -->                                                             
+			<tr>        
+			                          
+				<td width="100%" valign="top">                                                                                                                                                                                                                                                                                                                                                         
+					          
+					<div id="mainContent" style="width:960px;-moz-border-radius: 0 0 0px 20px;-webkit-border-bottom-left-radius: 20px;border-radius-left: 20px;">
+					<!-- @@@@: Removed class="WIDBackgroundColor" from the div tag above --> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDLogoInfoPortletView.jsp --><!-- Google Analytics --><!--moved to head.jspf--><!-- Google Analytics -->     
+			<div id="masthead">
+									
+						 <div id="logoSkipNav" class="WIDBackgroundColor" >
+						 <!-- Begin Skip Top Navigation -->
+     					 <a  tabindex="1" href="#main_content"    title="Skip to main content">Skip to main content</a>
+      					 <!-- End Skip Top Navigation --></div>
+      					 
+						 <div  id="righthead" class="header" style="background-image: url(/Internet/FSE_BANNERIMAGES/fseprd927916.png);">
+						 <div class="headercorner">
+                         
+						 <ul>
+						<li id="usdalogo">
+						<a href="https://www.usda.gov"></a>
+					</li>
+					<li id="usdatitle">
+						<a href="https://www.usda.gov">United States Department of Agriculture</a>
+					</li>
+					<li id="fstitle">
+						<a href="https://www.fs.fed.us">Forest Service</a>
+					</li>
+					<li id="foresttitle" style="width:400px;text-align:right;">
+					
+                        <a href="https://fs.usda.gov/r10"><b>Alaska Region</b></a>
+                    
+					</li>
+					<li id="fslogo">
+						<a href="https://www.fs.fed.us"></a>
+					</li>
+
+						 </ul>
+						 </div>
+						 </div>
+      					 
+					
+				</div>
+				
+			    
+				
+				<script type="text/javascript">googleAna('UA-20058426-2');googleAna('UA-15887590-1');</script>
+				
+				
+				
+  
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDTopNavPortletView.jsp --> 
+<div id ="topnav" title="Top Navigation">
+	
+   		<div id="navlist">
+   		<ul>
+   		
+			 		
+		<li><a  href="https://www.fs.fed.us/ " target="_blank">Forest Service Home</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/about-agency " target="_blank">About the Agency</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/about-agency/contact-us " target="_blank">Contact the National Office</a>
+			</li>
+		
+		
+			 		
+		<li><a  href="https://www.fs.fed.us/inside-fs " target="_blank">Inside the FS</a>
+			</li>
+		
+		
+	</ul>
+	</div>
+		
+</div>
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:180px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		 <div id="leftcol">
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDQuickSearchPortletView.jsp -->
+
+
+
+
+
+
+
+
+ 
+<div id="righttop" class="navleft"> 
+<!--
+      <p class="headingtop">Search</p>	
+-->
+			
+				
+				
+				
+				
+				
+				
+				
+<!--
+disable search form until new search solution is in place
+				<form name="frmMenu" action="/wps/portal/fsinternet/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IIkOgTEZ-birQAVFYjQjzQTiBkCMKckMjqnw8DDIdFRUBXOdu1Q!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk5NVTEwMDAwMDAw/?ss=1110&amp;navtype=SEARCH&amp;cid=FSE_003585&amp;navid=091000000000000&amp;pnavid=null&amp;ttype=search&amp;pname=Region 10  - Search" method="post"> 
+					<fieldset>  
+                			<legend>Search form</legend>  
+                			<label for="searchText">Search website</label> <div class="buttons" >
+           					
+							<input tabindex="2" type="text" id="searchText" name="searchText" value="" class="search"/>
+							
+								<button tabindex="3" name="submit" type="submit" >Go</button>
+								
+							 </div>
+					
+						<br clear="all"/>
+						
+						</fieldset>
+								
+						
+				</form>
+-->
+						 <ul class="searchlist" style='padding-top:5px'>
+							<li class="searchitem">
+							  <a id="SearchSiteMapURL" name="SearchSiteMapURL" href="/help/r10">Site Map</a>
+	        				</li>
+						</ul>
+				
+		</div>
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDLeftNavPortletView.jsp -->
+
+<script type="text/javascript">
+<!--
+	var eURL = "";
+	var nType ="";
+	var title ="";
+
+	
+	//test script
+		function initSelectOffice(oControl,encodedUrl,b,name)
+	{
+	    var theSelect = document.getElementById(oControl.name);
+	    eURL =encodedUrl;
+	    nType =name;
+	    theSelect.changed = false;
+	    theSelect.onfocus = selectOfficeFocussed;
+	    theSelect.onchange =  selectOfficeChanged ;	  	  
+	    theSelect.onkeydown = selectOfficeKeyed;
+	    theSelect.onclick = selectOfficeClicked;
+		
+	     return true;
+	}
+	
+	 
+	function selectOfficeChanged(theElement)
+	{
+	    var theSelect;
+	
+	    if (theElement && theElement.value)
+	    {
+	        theSelect = theElement;
+	    }
+	    else
+	    {
+	        theSelect = this;
+	    }
+	
+	    if (!theSelect.changed)
+	    {
+	        return false;
+	    }
+	    
+	    var paramArray = theSelect.value.split(".");	
+	    var queryParameters = document.getElementById("offices").value;
+	    document.NationalOffices.action =eURL+queryParameters;
+   	   	document.NationalOffices.submit();
+	   
+	}
+	
+	function selectOfficeClicked()
+	{
+	    this.changed = true;
+	  
+	}
+	
+	function selectOfficeFocussed()
+	{
+	    this.initValue = this.value;
+		
+	    return true;
+	}
+	
+	function selectOfficeKeyed(e)
+	{
+	    var theEvent;
+	    var keyCodeTab = "9";
+	    var keyCodeEnter = "13";
+	    var keyCodeEsc = "27";
+		
+	    if (e)
+	    {
+	        theEvent = e;
+	    }
+	    else
+	    {
+	        theEvent = event;
+	    }
+	
+	    if ((theEvent.keyCode == keyCodeEnter ) && this.value != this.initValue)
+	    {
+	        this.changed = true;
+	        selectOfficeChanged(this);
+	    }
+	    else if (theEvent.keyCode == keyCodeEsc)
+	    {
+	        this.value = this.initValue;
+	    }
+	    else
+	    {
+	        this.changed = false;
+	    }
+		
+	    return true;
+	}	
+//-->
+</script>
+<script type="text/javascript">var s1=new YAHOO.Hack.FixIESelectWidth('offices');</script>
+
+  
+
+<div class="navleft">  
+	
+	<p class="heading">Region 10</p><ul>
+		
+				 <li  class="selected">
+						<a href="/main/r10/home">	<span class="leftNavSelectedText">Home</span></a></li>
+						<li>
+								<a href="/main/r10/specialplaces">	<span>Special Places</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/recreation">	<span>Recreation</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/alert-notices">	<span>Alerts &amp; Notices</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/passes-permits">	<span>Passes &amp; Permits</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/maps-pubs">	<span>Maps &amp; Publications</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/fire-aviation">	<span>Fire &amp; Aviation</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/landmanagement">	<span>Land &amp; Resource Management</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/forest-grasslandhealth">	<span>Forest &amp; Grassland Health</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/communityforests">	<span>State, Private &amp; Community Forests</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/plants-animals">	<span>Plants &amp; Animals</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/learning">	<span>Learning Center</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/workingtogether">	<span>Working Together</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/jobs">	<span>Jobs &amp; Volunteering</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/law-enforcement">	<span>Law Enforcement</span></a>
+							</li>
+						
+						<li>
+								<a href="/main/r10/about-region">	<span>About the Region</span></a>
+							</li>
+						
+						<li>
+								<a href="/news/r10/news-events">	<span>News &amp; Events</span></a>
+							</li>
+						
+		
+		</ul>
+		
+
+			</div> 
+			
+							
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"></script>
+
+<!-- Begin WIDLocalContactInfoPortletView.jsp -->
+	          
+
+
+
+ 
+
+   <div id="leftcont" class="navleft">
+		<p class="heading">Contact Information</p>
+	         <p><strong>Alaska Regional Office</strong><br />
+PO Box 21628<br />
+709 W. 9th Street<br />
+Juneau, AK 99802-1628<br />
+(907) 586-8806</p>
+
+<p><a href="https://twitter.com/AKForestService"><img alt="Link to Alaska Region Twitter" src="/Internet/FSE_MEDIA/fseprd910633.png" style="width: 32px; height: 32px" /></a> <a href="https://www.flickr.com/photos/alaska_region/"><img alt="Link to Alaska Region Flickr." src="/Internet/FSE_MEDIA/fseprd910632.png" style="width: 32px; height: 32px" /></a> <a href="https://vimeo.com/forestservicealaska"><img alt="Link to Alaska Region Vimeo" src="/Internet/FSE_MEDIA/fseprd910631.png" style="width: 32px; height: 32px" /></a></p>
+
+	         
+	         <p><a id="localContactUSURL" name="localContactUSURL" href="/contactus/r10/about-region/contactus">Contact Us</a></p>
+	         
+	         <p class="bot"></p>
+   </div>
+	
+
+ 
+	
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+     
+
+<!-- Locator Map Portlet Start -->
+
+<!-- Locator Map Portlet End -->
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:760px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		 
+			<td width="100%">&nbsp;</td> 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDPageTitlePortletView.jsp -->
+
+<!-- page title portlet -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:520px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		<main><div id="centercol">
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+<a name="skipheader" id="skipheader"></a>
+<!-- Begin WIDWelcomePortletView.jsp -->
+
+<!-- view bean and searchResults treemap reference -->
+
+ 
+
+
+
+          
+ 
+	
+	
+    
+      
+    
+    
+    
+ 
+		
+		 	
+		 		<!-- gets dynamic conversion of content -->
+		 		<p style="font-size: 200%;"><img alt="Snowy mountain, fall vegetation." src="/Internet/FSE_MEDIA/fseprd968233.jpg" style="width: 517px; height: 344px;" /></p>
+
+<p><em>Fall on the Chugach National Forest, Seward Ranger District.&nbsp;Forest Service photo by Sarah Schuh.</em></p>
+
+<p>&nbsp;</p>
+
+<h1>Welcome to the Alaska Region</h1>
+
+<p>The Alaska region is home to two of the nation&rsquo;s largest national forests, the Chugach and Tongass. Located in south-central and southeast Alaska. From the famous Russian River on the Chugach to the Inside Passage surrounded by the Tongass. The Alaska Region offers amazing diversity and a multitude of uses.</p>
+
+	 		
+      
+    		
+	    
+   	
+			  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+	<h2>Recent News</h2>
+	<div style="position:relative;align:left;" class="rssstyle"><p>
+	<a  href="/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=1110&amp;xFSENavChannel02=091000000000000&amp;pathinfo=/wps/portal/fsinternet/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IIkOgTEZ-birQAVFYjQjzQTiBkCMKckMjqnw8DDIdFRUBXOdu1Q!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk4yTTAwMDAwMDAw/?navtype=BROWSEBYSUBJECT&amp;forestname=Region 10 " target="_blank">  	 							
+				<img id='rssimg'
+								name='rssimg' style="margin-top:2px;" border="0"
+								alt='RSS Feed'
+								src='/fseimages/rss.gif'/>
+								Subscribe to this feed
+	</a></p></div><div style="position:relative;align:left;" class="rssstyle"><p><a target="_blank" title="RSS Help" href="/Internet/FSE_DOCUMENTS/fse_rss_help_doc.html">
+		<img src='/fseimages/info.gif' style="margin-top:1px;" border="0" alt="RSS Help" id="rsshelp" name="rsshelp"/>
+		</a></p></div> <br clear="all"/> 
+		
+	    <ul>
+		
+		 
+		
+		
+		
+	    
+			
+			
+			
+		<li style="margin-top:5px;">
+		<a  href="/detail/r10/news-events/?cid=FSEPRD967800 "><b>Employee photos of Alaska’s National Forests compete for top pick</b></a>
+		
+		
+		<p class="dateline">Release Date: Nov 2, 2021&nbsp;&nbsp;</p>
+		
+		</li>
+	</ul>
+
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- BEGIN Feature Portlet JSP --><h2>Features</h2><!--		
+						<h3><a  href="/wps/portal/fsinternet/cs/main/r10/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IIkOgTEZ-birQAVFYjQjzQTiBkCMKckMjqnw8DDIdFRUBXOdu1Q!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk4wTTAwMDAwMDAw/?https://www.fs.usda.gov/detail/r10/learning/history-culture/?cid=stelprdb5377945&amp;pname=Forest Service  ">Alaska Native Cultures</a></h3>	-->
+							<h3><a style = "font-family:Helvetica,sans-serif;" href="https://www.fs.usda.gov/detail/r10/learning/history-culture/?cid=stelprdb5377945">Alaska Native Cultures</a></h3>
+									<!-- Code changed to make the image point to content instead of enlarged image -->
+								<a style = "font-family:Helvetica,sans-serif;" href="https://www.fs.usda.gov/detail/r10/learning/history-culture/?cid=stelprdb5377945"><img id="feature_6"
+										name="feature_6" 
+										align="left" 
+										class="FseImageMarginBorder"
+										height='114'
+										width='152'
+										alt='Close up totem pole'
+										src="/Internet/FSE_MEDIA/fseprd968239_tn.jpg"/></a>
+							
+							<p>For thousands of years Alaska Native peoples have lived in or near what are known today as the Tongass and Chugach National Forests. The Chugach, Kenaitze (also called Dena&#39;ina Athabascan), and Eyak live near the Chugach National Forest. The Tlingit, Haida, and Tsimshian Tribes live near the Tongass. Today, as in the past, their cultures are intertwined with the forests.</p>
+					<br clear="all"/>
+				<!--		
+						<h3><a  href="/wps/portal/fsinternet/cs/main/r10/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IIkOgTEZ-birQAVFYjQjzQTiBkCMKckMjqnw8DDIdFRUBXOdu1Q!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk4wTTAwMDAwMDAw/?https://www.fs.usda.gov/detail/r10/landmanagement/resourcemanagement/?cid=FSEPRD950023&amp;pname=Forest Service  ">Southeast Alaska Sustainability Strategy</a></h3>	-->
+							<h3><a style = "font-family:Helvetica,sans-serif;" href="https://www.fs.usda.gov/detail/r10/landmanagement/resourcemanagement/?cid=FSEPRD950023">Southeast Alaska Sustainability Strategy</a></h3>
+									<!-- Code changed to make the image point to content instead of enlarged image -->
+								<a style = "font-family:Helvetica,sans-serif;" href="https://www.fs.usda.gov/detail/r10/landmanagement/resourcemanagement/?cid=FSEPRD950023"><img id="feature_7"
+										name="feature_7" 
+										align="left" 
+										class="FseImageMarginBorder"
+										height='114'
+										width='152'
+										alt='Sunrise over water'
+										src="/Internet/FSE_MEDIA/fseprd957652_tn.jpg"/></a>
+							
+							<p>Thank you to everyone for participating in the&nbsp;30-day input period for the initial investment initiative&nbsp;(Sept. 15-Oct. 18, 2021). Participants submitted&nbsp;240 project proposals and 70 meeting requests. The USDA team is reviewing input and conducting meetings. We expect long-term, meaningful collaboration to continue beyond this input period.&nbsp;Stay tuned for updates.</p><br clear="all"/> 	<p align ="right" class="noPrint">		
+			<a  href="/list/r10/home/list/?position=Feature* " title="View All Features">View All Features</a>	</p>
+							
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDSubFeaturePortletView.jsp --><h2>Spotlights</h2>
+			<div class="spotlight">
+						
+						
+							<h3><a href="https://www.fs.usda.gov/detailfull/r10/communityforests/?cid=fseprd832054&width=full">Alaska Wood Energy</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="https://www.fs.usda.gov/detailfull/r10/communityforests/?cid=fseprd832054&width=full"><img id='sf_FSEPRD957660.png0'
+									name='sf_FSEPRD957660.png0'
+									align="left" 	class="FseImageMarginBorder"
+									height='66'
+									width='88'
+									alt='Burning log fire'
+									src="/Internet/FSE_MEDIA/fseprd957660_tn.jpg" /></a>
+							<p>Fund wood innovation ideas in your community with a grant.</p>
+						</div>
+					
+			<div class="spotlight">
+						
+						
+							<h3><a href="https://www.ansep.net/">STEM in the Forests</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="https://www.ansep.net/"><img id='sf_FSEPRD927859.jpg1'
+									name='sf_FSEPRD927859.jpg1'
+									align="left" 	class="FseImageMarginBorder"
+									height='66'
+									width='88'
+									alt='ANSEP students posing'
+									src="/Internet/FSE_MEDIA/fseprd927859_tn.jpg" /></a>
+							<p>ANSEP, Alaska Native Science &amp; Engineering Program partners with the Alaska Region.</p>
+						</div>
+					<p>&nbsp;</p>  <br/> <br/><br clear="all"/>
+			<div class="spotlight">
+						
+						
+							<h3><a href="https://www.fs.usda.gov/detail/r10/workingtogether/tribalrelations/?cid=FSEPRD546780">Multilingual Animal Names</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="https://www.fs.usda.gov/detail/r10/workingtogether/tribalrelations/?cid=FSEPRD546780"><img id='sf_FSEPRD5855342'
+									name='sf_FSEPRD5855342'
+									align="left" 	class="FseImageMarginBorder"
+									height='66'
+									width='88'
+									alt='A Bald Eagle spreading it&#039;s wings atop an iceberg.'
+									src="/Internet/FSE_MEDIA/fseprd585534_tn.jpg" /></a>
+							<p>Hear them in a few Alaska Native languages.</p>
+						</div>
+					
+			<div class="spotlight">
+						
+						
+							<h3><a href="https://www.fs.usda.gov/detail/r10/recreation/?cid=FSEPRD544698">Take a Hike</a></h3>
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+							
+						    <a href="https://www.fs.usda.gov/detail/r10/recreation/?cid=FSEPRD544698"><img id='sf_FSEPRD512853.png3'
+									name='sf_FSEPRD512853.png3'
+									align="left" 	class="FseImageMarginBorder"
+									height='66'
+									width='88'
+									alt='Hiker with their dog on a trail.'
+									src="/Internet/FSE_MEDIA/fseprd512853_tn.jpg" /></a>
+							<p>Find a new trail near you. Check conditions before you go.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+						</div>
+					<br clear="all"/><br clear="all"/>	<p align="right" class="noPrint"> <a  href="/list/r10/home/list/?position=SubFeature* " title="View All Spotlights">View All Spotlights</a></p> 				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:220px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+	<div id="rightcol">
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDPromoPortletView.jsp -->
+       	<div class="showcase">
+        <a href="https://www.fs.usda.gov/detailfull/r10/news-events/?cid=fseprd902024&amp;width=full">								
+								<img align="middle"  width="218" id='PromoFSEPRD76298173' name='PromoFSEPRD76298173' 
+									class="showcaseimg" alt='Cover of Sourdough News'
+									src="/Internet/FSE_MEDIA/fseprd762981.gif"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.fs.usda.gov/detailfull/r10/news-events/?cid=fseprd902024&amp;width=full ">Sourdough News</a></p>
+						
+						<p class="showcasebot">&nbsp;</p>		
+						
+	</div>    			
+        				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDQuickLinksPortletView.jsp   -->
+        <div class="box">
+    	   
+						<p class="boxheading">Quick Links</p>
+													
+             <ul>	
+	    		
+								<li><a  href="https://www.fs.usda.gov/detail/r10/landmanagement/resourcemanagement/?cid=FSEPRD950023 ">Southeast Alaska Sustainability Strategy</a></li>
+							
+								<li><a  href="https://www.fs.usda.gov/detail/r10/home/?cid=FSEPRD853573 ">Great American Outdoors Act</a></li>
+							
+								<li><a  href="http://www.fs.usda.gov/about-agency/covid19-updates ">Covid-19 Information</a></li>
+							
+								<li><a  href="https://www.fs.usda.gov/detail/r10/home/?cid=stelprdb5278851 ">Visitors Centers</a></li>
+							
+								<li><a  href="https://ppdfs.ess.usda.gov/newsarchives/r10/newsarchive ">News Archive</a></li>
+							
+								<li><a  href="https://www.fs.usda.gov/detail/r10/news-events/?cid=fseprd868372 ">Media Toolkit</a></li>
+							 </ul>
+	 					        
+	              </div>
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDHighlightsPortletView.jsp -->
+	   <div class="box">  
+	      
+				<p class="boxheading">Highlights</p>
+											
+	    	<ul>
+			
+						<li><a  href="https://www.recreation.gov/ ">Cabin &amp; Campground Reservations</a>
+						</li>
+					
+						<li><a  href="https://www.usgs.gov/products/maps/overview " target="_blank">USGS Map Store</a>
+						       <img id="highlight_img_35601" align="middle" name="highlight_img_35601" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						</li>
+					
+						<li><a  href="https://www.fs.usda.gov/main/r10/jobs ">Jobs &amp; Volunteering</a>
+						</li>
+					
+						<li><a  href="https://twitter.com/AKForestService ">Alaska Region on Twitter</a>
+							<br/>
+							<p></p>
+<a class="twitter-timeline" data-width="195" data-height="600" data-theme="dark" href="https://twitter.com/AKForestService?ref_src=twsrc%5Etfw" data-chrome="nofooter noscrollbar">Tweets by AKForestService</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</li>
+					 </ul>
+ 						                 		
+      </div>
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				<!-- Begin WIDPromoPortletView.jsp -->				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDFooterNavPortletView.jsp -->
+
+<br />
+<br />
+
+
+
+
+</main><div id="footer"><p> 
+				 <a href="https://www.fs.fed.us/" name="lnkFo">Forest Service Home</a> | <a href="https://www.usda.gov/" name="lnkUS">USDA.gov</a> | <a href="https://www.recreation.gov/" name="lnkre">recreation.gov</a> | <a href="https://www.fs.fed.us/visit/recreation-customer-service-standards/" name="lnkRe">Recreation Customer Service Standards</a> | <a href="https://www.usa.gov/" name="lnkUS">USA.gov</a> | <a href="https://www.whitehouse.gov/" name="lnkWh">Whitehouse.gov</a></p><p> 
+				 <a href="https://www.fs.fed.us/plugins.shtml" name="lnkPl">Plug-Ins</a> | <a href="https://www.dm.usda.gov/foia/" name="lnkFO">FOIA</a> | <a href="https://www.usda.gov/accessibility-statement" name="lnkAc">Accessibility Statement</a> | <a href="https://www.usda.gov/privacy-policy" name="lnkPr">Privacy Policy</a> | <a href="https://www.fs.fed.us/about-agency/disclaimers-important-notices" name="lnkIm">Important Notices</a> | <a href="https://www.fs.fed.us/qoi/" name="lnkIn">Information Quality</a></p></div>				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>              
+					</div>                   
+				</td>                                    
+			</tr>   
+		</table>						   		
+	<style>
+.hidewebpageurl {
+display: none;
+visibility: hidden;
+}
+</style>
+<div class="hidewebpageurl" id="webpage_url">https://www.fs.usda.gov/r10</div></body>   
+</html>                         
+<!-- FSE_WIDTheme_war.ear version 18 -->
